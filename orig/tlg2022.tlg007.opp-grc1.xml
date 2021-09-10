@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xml:lang="eng">    
+  <teiHeader xml:lang="eng">
     <fileDesc>
 <titleStmt><title xml:lang="lat">Adversus Eunomianos (orat. 27)</title>
   <author>Gregorius Nazianzenus</author>
@@ -340,7 +340,7 @@ chiefly thinking of heretical bishops.</note>
 καθαιρομένων, τὸ μετριώτατον. μὴ καθαρῷ γὰρ ἅπτεσθαι
 <note type="footnote">1 ἄρα καὶ] om καὶ bcd || 10 νόμον ’τον ὑμέτερον c. 3. 16 κα οις]
 ἐφ’ ὄις b || ἐφ’ ὅσον] ων b</note>
-<note type="footnote">3. ἐλαλήσαμεν . . . ἕσχςν] Gr. as- 
+<note type="footnote">3. ἐλαλήσαμεν . . . ἕσχςν] Gr. as-
 sumes that what he asks has been
 done, and looks back upon the re-
 suit. The words are a quotation
@@ -1313,8 +1313,11 @@ masc., ‘dialecticians.’</note>
 <p>Ἀντιλέγεις καὶ τούτοις; καὶ οὐδαμοῦ σοι τἄλλα; καὶ
 τὴν γλῶσσαν δεῖ δυναστεύειν πάντως, καὶ οὐ κατέχεις τὴν
 ὠδῖνα τοῦ λόγου; ἔχεις καὶ ἄλλας ὑποθέσεις πολλάς τε
-καὶ φιλοτίμους. ἐκεῖ τρέψον μετὰ τοῦ χρησίμου τὴν νόσον.
-10. βάλλε μοι Πυθαγόρου τὴν σιωπήν, καὶ τοὺς κυάμους <lb n="10"/>
+καὶ φιλοτίμους. ἐκεῖ τρέψον μετὰ τοῦ χρησίμου τὴν νόσον.</p>
+</div>
+
+<div type="textpart" subtype="chapter" n="10">
+<p>βάλλε μοι Πυθαγόρου τὴν σιωπήν, καὶ τοὺς κυάμους <lb n="10"/>
 <note type="footnote">1 om τι των ανδρων . . . εκκαρπουμενος acd</note>
 <note type="footnote">1. τῶν ἀνδρῶν ὅσον κ.] ‘everything
 that is worthless in the shape
@@ -1644,8 +1647,8 @@ a modest doubt concerning
 our share in the great revelation.</note></p>
 </div>
     </div>
-    
-    
+
+
     </body>
   </text>
 </TEI>
