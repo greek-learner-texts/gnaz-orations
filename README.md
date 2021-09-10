@@ -1,4 +1,4 @@
-# {{ NAME OF TEXT }}
+# Gregory of Nazianzus Orations
 
 {{ describe what is being done, the process being followed, and who is involved in the work }}
 
@@ -6,11 +6,11 @@ This text is being prepared as part of the [Greek Learner Texts Project](https:/
 
 ## Contributors
 
-* {{ list of people who have contributed to this repo }}
+* James Tauber (initial setup)
 
 ## Source
 
-{{ indicate original source(s) of text: scans or existing transcriptions }}
+Original text from [Open Greek and Latin's First1KGreek Project](https://github.com/OpenGreekAndLatin/First1KGreek).
 
 ## Progress
 
