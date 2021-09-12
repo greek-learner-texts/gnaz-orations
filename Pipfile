@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 lxml = "*"
+greek-normalisation = "*"
 
 [dev-packages]
 
