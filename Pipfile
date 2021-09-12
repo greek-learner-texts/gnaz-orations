@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 lxml = "*"
 greek-normalisation = "*"
+requests = "*"
+greek-accentuation = "*"
+pyyaml = "*"
 
 [dev-packages]
 
