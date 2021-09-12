@@ -81,7 +81,8 @@ for child in body:
                         assert ggchild.tail.strip() == ""
                     elif ggchild.tag == tei("p"):
                         assert ggchild.attrib == {}
-                        print(ggchild.text.strip())
+                        if ggchild.text.strip():
+                            print(ggchild.text.strip())
                         assert ggchild.tail is None or ggchild.tail.strip() == ""
 
                         for g3child in ggchild:
@@ -90,7 +91,8 @@ for child in body:
                                 assert g3child.text is None
                                 assert len(g3child) == 0
                                 assert g3child.tail
-                                print(g3child.tail.strip())
+                                if g3child.tail.strip():
+                                    print(g3child.tail.strip())
                             elif g3child.tag == tei("note"):
                                 pass  # @@@
                             elif g3child.tag == tei("pb"):
@@ -100,7 +102,8 @@ for child in body:
                                 pb = g3child.attrib["n"]
                                 # print("p", pb)
                                 assert g3child.tail
-                                print(g3child.tail.strip())
+                                if g3child.tail.strip():
+                                    print(g3child.tail.strip())
                             else:
                                 print(g3child.tag)
                                 quit()
