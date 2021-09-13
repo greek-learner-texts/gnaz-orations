@@ -6,7 +6,8 @@ This text is being prepared as part of the [Greek Learner Texts Project](https:/
 
 ## Contributors
 
-* James Tauber (initial setup)
+* James Tauber (initial setup, corrections)
+* Seumas Macdonald (corrections)
 
 ## Source
 
