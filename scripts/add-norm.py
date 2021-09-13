@@ -15,7 +15,26 @@ config = (
     | Norm.EXTRA
     | Norm.PROCLITIC
     | Norm.ENCLITIC
+    | Norm.CAPITALISED
 )
+
+PROPER_NOUNS = {
+    "Ἱερεμίας",
+    "Μωυσέως",
+    "Σολομῶντι",
+    "Ἰώβ",
+    "Μωυσέα",
+    "Ὀρφικούς",
+    "Ἐπικούρου",
+    "Κυνῶν",
+    "Παῦλος",
+    "Παῦλον",
+    "Χριστοῦ",
+    "Χριστῷ",
+    "Πυθαγόρου",
+    "Πλάτωνος",
+    "Ἀριστοτέλους",
+}
 
 
 def format_flags(flags):
@@ -39,7 +58,7 @@ def format_flags(flags):
     return s
 
 
-normalise = Normaliser(config).normalise
+normalise = Normaliser(config, proper_nouns=PROPER_NOUNS).normalise
 
 input_filename = f"text/orat27.sent.txt"
 output_filename = f"analysis/orat27.sent.norm.txt"
