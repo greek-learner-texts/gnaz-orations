@@ -9,6 +9,7 @@ greek-normalisation = "*"
 requests = "*"
 greek-accentuation = "*"
 pyyaml = "*"
+text-validator = "*"
 
 [dev-packages]
 
