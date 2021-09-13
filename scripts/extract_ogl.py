@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-import re
+from unicodedata import normalize
 
 from lxml import etree
 
@@ -47,7 +47,7 @@ for child in body:
                 assert gchild.tail.strip() == ""
                 assert len(gchild) == 0
 
-                print("#", gchild.text.strip())
+                print("#", normalize("NFC", gchild.text.strip()))
 
             elif gchild.tag == tei("div"):
 
@@ -61,7 +61,7 @@ for child in body:
                 assert gchild.attrib["n"] in map(str, range(1, 11)), gchild.attrib["n"]
                 print()
                 print()
-                print("## CHAPTER", gchild.attrib["n"])
+                print("## CHAPTER", normalize("NFC", gchild.attrib["n"]))
                 print()
 
                 for ggchild in gchild:
@@ -82,7 +82,7 @@ for child in body:
                     elif ggchild.tag == tei("p"):
                         assert ggchild.attrib == {}
                         if ggchild.text.strip():
-                            print(ggchild.text.strip())
+                            print(normalize("NFC", ggchild.text.strip()))
                         assert ggchild.tail is None or ggchild.tail.strip() == ""
 
                         for g3child in ggchild:
@@ -92,7 +92,7 @@ for child in body:
                                 assert len(g3child) == 0
                                 assert g3child.tail
                                 if g3child.tail.strip():
-                                    print(g3child.tail.strip())
+                                    print(normalize("NFC", g3child.tail.strip()))
                             elif g3child.tag == tei("note"):
                                 pass  # @@@
                             elif g3child.tag == tei("pb"):
@@ -103,7 +103,7 @@ for child in body:
                                 # print("p", pb)
                                 assert g3child.tail
                                 if g3child.tail.strip():
-                                    print(g3child.tail.strip())
+                                    print(normalize("NFC", g3child.tail.strip()))
                             else:
                                 print(g3child.tag)
                                 quit()
