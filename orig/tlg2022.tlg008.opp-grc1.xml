@@ -2,7 +2,7 @@
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader xml:lang="eng">
-    
+
     <fileDesc>
 <titleStmt><title xml:lang="lat">De Theologia (Orat. 28)</title>
   <author xml:lang="lat">Gregorius Nazianzenus</author>
@@ -104,16 +104,16 @@ License</licence>
     <body><div type="edition" n="urn:cts:greekLit:tlg2022.tlg008.opp-grc1" xml:lang="grc">
 
 <pb n="21"/>
-<head>ΘEΟΑΟΓΙKΟΣ ΔΕΥTΕΡΟΣ.</head>
+<head>ΘΕΟΑΟΓΙΚΟΣ ΔΕΥΤΕΡΟΣ.</head>
 <head>ΠΕΡΙ ΘΕΟΛΟΓΙΑΣ.</head>
         <div type="textpart" subtype="chapter" n="1"><p>Ἐπειδὴ ἀνεκαθήραμεν τῷ λόγῳ τὸν θεόλογον, οἷόν
 τε εἶναι χρὴ διελθόντες, καὶ οἷστισι φιλοσοφητέον, καὶ
-ἡνίκα, καὶ ὅσον·—ὅτι ὡς οἷόν τε καθαροῖς, ἵνα φωτὶ καταλαμβάνηται
+ἡνίκα, καὶ ὅσον· — ὅτι ὡς οἷόν τε καθαροῖς, ἵνα φωτὶ καταλαμβάνηται
 φῶς· καὶ τοῖς ἐπιμελεστέροις, ἵνα μὴ ἄγονος
 ἦ εἰς ἄγονον χώραν ἐμπίπτων ὁ λόγος· καὶ ὅταν γαλήνην <lb n="5"/>
 ἔχωμεν ἔνδον ἀπὸ τῆς ἔξω περιφορᾶς, ὥστε μή, καθάπερ
 οἱ λυττῶντες, τῷ πνεύματι διακόπτεσθαι· καὶ ὅσον ἐχωρήσαμεν,
-ἢ χωρούμεθα· —ἐπειδὴ ταῦτα οὕτω, καὶ ἐνεώσαμεν
+ἢ χωρούμεθα· — ἐπειδὴ ταῦτα οὕτω, καὶ ἐνεώσαμεν
 ἑαυτοῖς θεῖα νεώματα, ὥστε μὴ σπείρειν ἐπ’ ἀκάνθαις, καὶ
 τὸ πρόσωπον τῆς γῆς ὡμαλίσαμεν, τῆ γραφῇ τυπωθέντες <lb n="10"/>
 τε καὶ τυπώσαντες· φέρε, τοῖς τῆς θεολογίας ἤδη προσβῶμεν
@@ -140,7 +140,7 @@ men,’ Ἄγονος=ἄκαρπος Mark iv
 δυναστείαν, ἃ τῆς κάτω περιφορᾶς of Gr. 's.
 ἐστὶ καὶ ὀνειρώδους τέρψεως. Hesych.
 renders the word by ἢ κατὰ
-κίνησις—‘whirl.’ Cp. Plat. Rep. 10
+κίνησις — ‘whirl.’ Cp. Plat. Rep. 10
 p. 616; Eccl. ii 2.</note>
 <note type="footnote">7. τῷ πνεῦμ’. διακόπτεσθαι] ‘be
 stopped for want of breath.’</note>
@@ -152,7 +152,7 @@ and by that of those whom we address.</note>
 Is. xxviii 25.</note>
 <note type="footnote">12 προστησάμενοι τ. λ.] ’making
 God the προστάτης, or patron, of
-the ’;—a favourite expression
+the ’; — a favourite expression
 of Gr's.</note>
 
 <pb n="22"/>
@@ -310,7 +310,7 @@ to be the reason for the prohibition
 of most of the birds enumerated
 in Lev. xi, Deut. xiv.</note>
 <note type="footnote">4. οὕτω] resumes the preceding
-clause—like sic demum; ’not
+clause — like sic demum; ’not
 it has got rid of these.’</note>
 <note type="footnote">ib. πλαξὶ...λιθίναις] Ex. xxiv 12.
 Α somewhat difficult turn in the
@@ -327,8 +327,8 @@ no transient impression.</note>
 <note type="footnote">5. ἀμφοτέρωθεν] Ex. xxxii 15.
 Again a somewhat fantastic application.
 One side of the tables is
-seen—one part of the λόγος is
-—by every one; but there is a
+seen — one part of the λόγος is
+— by every one; but there is a
 reverse which only few can read,
 viz. those who succeed in reaching
 the mountain top φθάνουσιν). This
@@ -459,7 +459,7 @@ pares Wisd. xiii 5.</note>
 <div type="textpart" subtype="chapter" n="4">
 <p>Ἀρκτέον οὖν οὕτω πάλιν. θεὸν νοῆσαι μὲν
 χαλεπόν· φράσαι δὲ ἀδύνατον, ὥς τις τῶν παρ’ Ἕλλησι
-θεολόγων ἐφιλοσόφησεν,—οὐκ ἀτέχνως ἐμοὶ δοκεῖν, ἵνα καὶ
+θεολόγων ἐφιλοσόφησεν, — οὐκ ἀτέχνως ἐμοὶ δοκεῖν, ἵνα καὶ
 <lb n="15"/> κατειληφέναι δόξη τῷ χαλεπὸν εἰπεῖν, καὶ διαφύγῃ τῷ
 ἀνεκφράστῳ τὸν ἔλεγχον. ἀλλὰ φράσαι μὲν ἀδύνατον, ὡς
 ὁ ἐμὸς λόγος, νοῆσαι δὲ ἀδυνατώτερον. τὸ μὲν γὰρ νοηθὲν
@@ -485,7 +485,7 @@ do it.</note>
 must begin ’ The hopes with
 which he had begun at first ὡς θεὸν
 καταληψόμενος) have proved fallacious.</note>
-<note type="footnote">13. ὥς τις τῶν παρ᾿ Ἕ. θεολόγων]
+<note type="footnote">13. ὥς τις τῶν παρ’ Ἕ. θεολόγων]
 The reference appears to be to
 Timaeus 28 Ε τὸν μὲν οὖν ποιητὴν
 καὶ πατέρα τοῦ παντὸς εὑρεῖν τὸ ἔργον,
@@ -606,7 +606,7 @@ that St Paul adds ἡμῖν γὰρ ἀπεκάλυψεν
 ὁ θ. διὰ τοῦ πνεύματος.</note>
 <note type="footnote">4. κατὰ μικρὸν γοῦν] Γοῦν corrects,
 but limits the concession;
-‘not contemplated by the mind—
+‘not contemplated by the mind —
 well, only to small estent.’</note>
 <note type="footnote">6. τὰς σκιάς] ‘the outlines.’</note>
 <note type="footnote">ib. ὄψομαι κτλ.] Ps. viii 4 (3).</note>
@@ -672,7 +672,7 @@ p. 6.</note>
 ἐννοήσει, καὶ πρὸς αὐτὸν ἀναδραμεῖται τῆ διανοίᾳ, κἂν
 ἀγνοῶν τύχη ταῖς ὄψεσιν. οὕτω καὶ ἡμῖν τὸ ποιητικὸν <lb n="15"/>
 <note type="footnote">6. 4 αἰτίαν] οὐσίαν f ǁ 6 ὁδεύουσι] -σα c</note>
-<note type="footnote">6. Of His existence the order of 
+<note type="footnote">6. Of His existence the order of
 nature assures us. We are forced to
 think of a Creator when we look
 upon Creation, as the sight of a lyre
@@ -717,7 +717,7 @@ existence of an ἀρχηγός i.e. ‘author.’</note>
 οὐσία,’ ‘bring into being.’</note>
 <note type="footnote">11. κιθάραν...κάιλιστα ἠσκημένην]
 Cp. Paley's famous argument about
-the watch. Ἀσκεῖν like ἐξασκεῖν, = 
+the watch. Ἀσκεῖν like ἐξασκεῖν, =
 exornare; see Horn. Od. i 439:
 ‘beautifully and elaborately made.’</note>
 <note type="footnote">15. ταῖς ὄψεσιν] contrasted with
@@ -764,7 +764,7 @@ with the sentence in § 12
 where Gr. resumes his thread after a
 long digression, seems to shew that we
 must assign an entirely different meaning
-to the present sentence,—and
+to the present sentence, — and
 which will accord better with grammatical
 requirements. In ἑ 12 Gr.
 says that the proposition from which
@@ -850,7 +850,7 @@ would not make so strong an argu-
 ment against Eunomian self-confidence.
 Ἔφοδος ‘method.’</note>
 <note type="footnote">8. βασανιζόμενος] a logical pa-
-rallel to ὅλαις;—‘however much you
+rallel to ὅλαις;— ‘however much you
 rack it.’</note>
 <note type="footnote">9. καυχ. εἰς τὰ ἄμετρα] ‘boasting of
 your command of the infinite.’</note>
@@ -1141,7 +1141,7 @@ bodies and it.</note>
 ἄφθαρτον, καὶ ὅσα περὶ θεοῦ ἢ περὶ θεὸν εἶναι λέγεται.
 τί γὰρ ὄντι αὐτῷ κατὰ τὴν φύσιν καὶ τὴν ὑπόστασιν
 ὑπάρχει τὸ μὴ ἀρχὴν ἔχειν, μηδὲ ἐξίστασθαι, μηδὲ περα-
-τοῦσθαι ἀλλ᾿ ἀλλ’ ὅλον τὸ εἶναι περιλαμβάνειν λείπεται <lb n="10"/>
+τοῦσθαι ἀλλ’ ἀλλ’ ὅλον τὸ εἶναι περιλαμβάνειν λείπεται <lb n="10"/>
 προσφιλοσοφεῖν τε καὶ προσεξετάζειν τῷ γε νοῦν θεοῦ
 ἀληθῶς ἔχοντι καὶ τελεωτέρῳ τὴν θεωρίαν. ὡς γὰρ οὐκ
 ἀρκεῖ τὸ σῶμα εἰπεῖν, ἢ τὸ γεγεννῆσθαι, πρὸς τὸ καὶ τό,
@@ -1200,8 +1200,8 @@ coupled by ἢ to εἰπεῖν.</note>
 καὶ φθειρόμενον· οὕτως οὐδὲ ἐκεῖ στήσεται μέχρι
 <lb n="5"/> τοῦ εἰπεῖν ἃ μή ἐστιν ὁ τὴν τοῦ ὄντος πολυπραγμονῶν
 φύσιν, ἀλλὰ δεῖ, πρὸς τῷ εἰπεῖν ἃ μή ἐστι, καὶ ὅ ἐστιν
-εἰπεῖν, ὅσῳ καὶ ῥᾷον ἕν τι περιλαβεῖν, ἢ τὰ πάντα καθ᾿
-ἕκαστον ἀπειπεῖν,—ἵνα ἔκ τε τῆς ἀναιρέσεως ὧν οὔκ ἐστι,
+εἰπεῖν, ὅσῳ καὶ ῥᾷον ἕν τι περιλαβεῖν, ἢ τὰ πάντα καθ’
+ἕκαστον ἀπειπεῖν, — ἵνα ἔκ τε τῆς ἀναιρέσεως ὧν οὔκ ἐστι,
 καὶ τῆς οὗ ἐστὶ θέσεως, περιληφθῇ τὸ νοούμενον. ὁ δὲ ἃ
 <lb n="10"/> μὲν οὔκ ἐστι λέγων, σιωπῶν δὲ ὅ ἐστι, ποιεῖ παραπλήσιον,
 ὥσπερ ἂν εἰ τὰ πέντε δὶς ὅσα ἐστὶν ἐρωτώμενος ὅτι μὲν
@@ -1340,7 +1340,7 @@ and impersonally in both clauses
 
 <pb n="38"/>
 εἰ ἐν τῷ παντί. καὶ ποῦ πρὶν γενέσθαι τὸ πᾶν; οὐδὲ γὰρ
-τοῦτο μικρὸν εἰς ἀπορίαν. εἰ δὲ ὑπὲρ τὸ πᾶν, ἆρ᾿ οὐδὲν ἦν
+τοῦτο μικρὸν εἰς ἀπορίαν. εἰ δὲ ὑπὲρ τὸ πᾶν, ἆρ’ οὐδὲν ἦν
 τὸ διορίζον αὐτὸ τοῦ παντός; ποῦ δὲ τὸ ὑπὲρ τοῦτο; καὶ
 πῶς ἐνοήθη τὸ ὑπεραῖρον καὶ ὑπεραιρόμενον, οὐκ ὄντος
 <lb n="5"/> ὅρου τινὸς τοῦ τέμνοντος ταῦτα καὶ διορίζοντος; ἢ χρὴ
@@ -1422,11 +1422,11 @@ their language.</note>
 ἵν ἐκεῖνο δηλώσαιμι, ὅ μοι λέγειν ὁ λόγος ἀπ’ ἀρχῆς
 ὥρμησεν. τοῦτο δὲ ἦν τί; τὸ μὴ ληπτὸν εἶναι ἀνθρωπίνῃ
 διανοίᾳ τὸ θεῖον, μηδὲ ὅλον ὅσον ἐστὶ φαντάζεσθαι· καὶ
-τοῦτο οὔτε διὰ φθόνον,—μακρὰν γὰρ τῆς θείας φύσεως
+τοῦτο οὔτε διὰ φθόνον, — μακρὰν γὰρ τῆς θείας φύσεως
 φθόνος, τῆς γε ἀπαθοῦς καὶ μόνης ἀγαθῆς καὶ κυρίας, καὶ <lb n="10"/>
 μάλιστα τῶν ἑαυτοῦ κτισμάτων περὶ τὸ τιμιώτατον· τί
 γὰρ Λόγῳ πρὸ τῶν λογικῶν; ἐπεὶ καὶ αὐτὸ τὸ ὑποστῆναι
-τῆς ἄκρας ἀγαθότητος·—οὔτε εἰς τιμὴν ἑαυτοῦ καὶ δόξαν
+τῆς ἄκρας ἀγαθότητος· — οὔτε εἰς τιμὴν ἑαυτοῦ καὶ δόξαν
 τοῦ πλήρους, ἵνα τῷ ἀνεφίκτῳ τὸ τίμιον ἔχῃ καὶ τὸ
 σεβάσμιον. τοῦτο γὰρ πάντως σοφιστικὸν καὶ ἀλλότριον, <lb n="15"/>
 μὴ ὅτι θεοῦ, ἀλλ’ οὐδὲ ἀνθρώπου μετρίως ἐπιεικοῦς, καί
@@ -1544,8 +1544,8 @@ which He ’’ etc. Ps. xvii (xviii)
 ἐκεῖνο γνώριμον τοῖς δεσμίοις τῆς γῆς, ὅ φησιν ὁ θεῖος
 Ἱερεμίας, καὶ τὸ παχὺ τοῦτο σαρκίον περιβεβλημένοις, ὅτι <lb n="5"/>
 ὥσπερ ἀδύνατον ὑπερβῆναι τὴν ἑαυτοῦ σκιάν, καὶ τῷ λίαν
-ἐπειγομένῳ,—φθάνει γὰρ ἀεὶ τοσοῦτον, ὅσον καταλαμβάνεται,
-—ἢ τοῖς ὁρατοῖς πηλσιάσαι τὴν ὄψιν δίχα τοῦ ἐν
+ἐπειγομένῳ, — φθάνει γὰρ ἀεὶ τοσοῦτον, ὅσον καταλαμβάνεται,
+ — ἢ τοῖς ὁρατοῖς πηλσιάσαι τὴν ὄψιν δίχα τοῦ ἐν
 φωτὸς καὶ ἀέρος, ἢ τῶν ὑδάτων ἔξω τὴν νηκτὴν φύσιν
 διολισθαίνειν, οὕτως ἀμήχανον τοῖς ἐν σώμασι δίχα τῶν <lb n="10"/>
 σωματικῶν πάντη γενέσθαι μετὰ τῶν νοουμένων. ἀεὶ γάρ
@@ -1680,9 +1680,9 @@ the next sentence τούτων = τῶν εἰκασ-
 αἰτίας. κάμνουσα δὲ τῷ πόθῳ, καὶ οἷον σφαδάζουσα, καὶ
 τὴν ζημίαν οὐ φέρουσα, δεύτερον ποιεῖται πλοῦν, ἢ πρὸς
 τὰ ὁρώμενα βλέψαι, καὶ τούτων τι ποιῆσαι θεόν, κακῶς <lb n="10"/>
-εἰδυῖα,—τί γὰρ τῶν ὁρατῶν τοῦ ὁρῶντος καὶ πόσον ἐστὶν
+εἰδυῖα, — τί γὰρ τῶν ὁρατῶν τοῦ ὁρῶντος καὶ πόσον ἐστὶν
 ὑψηλότερόν τε καὶ θεοειδέστερον, ἵν ἦ τὸ μὲν προσκυνοῦν,
-τὸ δὲ προσκυνούμενον;—ἢ διὰ τοῦ κάλλους τῶν ὁρωμένων
+τὸ δὲ προσκυνούμενον; — ἢ διὰ τοῦ κάλλους τῶν ὁρωμένων
 καὶ τῆς εὐταξίας θεὸν γνωρίσαι, καὶ ὁδηγῷ τῇ ὄψει τῶν
 ὑπὲρ τὴν ὄψιν χρήσασθαι, ἀλλὰ μὴ ζημιωθῆναι θεὸν διὰ <lb n="15"/>
 τῆς μεγαλοπρεπείας τῶν ὁρωμένων.</p>
@@ -1701,7 +1701,7 @@ representing Him to our minds, and
 yet eliminate from the representation
 notions which are of the very essence
 of ‘light’ and ‘love’ as known to
-us?—The sentence is elliptical: ἡ
+us? — The sentence is elliptical: ἡ
 μηχ. is not the φαντασία which we
 attempt to form ἐκ τούτων·. in full it
 would be something like τίς ἡ μηχ.
@@ -1771,7 +1771,7 @@ this phrase. Elias gives an elabo-
 rate double explanation which only
 shews how much it puzzled him.
 Prob. by τὸ ποσόν Gr. means ’the
-’ of motion,—the planets e.g.
+’ of motion, — the planets e.g.
 moving at a different ‘rate’ from
 the fixed stars; while τὸ ποῖον would
 include their conjunctions.</note>
@@ -1802,7 +1802,7 @@ worshipping himself as God.</note>
 
 <pb n="45"/>
 εὑράμενοι τῶν οἰκείων ἁμαρτημάτων. καὶ τοὺς μὲν ἀφῆκαν
-κάτω, τοὺς δὲ ὑπὸ γῆν ἔκρυψαν,—τοῦτο συνετῶς μόνον,—τοὺς
+κάτω, τοὺς δὲ ὑπὸ γῆν ἔκρυψαν, — τοῦτο συνετῶς μόνον, — τοὺς
 δὲ ἀνήγαγον εἰς τὸν οὐρανόν. ὢ τῆς γελοίας κληροδοσίας.
 εἶτα ἑκάστῳ τῶν πλασμάτων ὄνομά τι θεῶν ἢ
 δαιμόνων ἐπιφημίσαντες, κατὰ τὴν ἐξουσίαν καὶ αὐτονομίαν <lb n="5"/>
@@ -1850,7 +1850,7 @@ word in a free and untechnical sense.</note>
 <note type="footnote">19. οἶα τ. π] predicate. The
 constr. is τοῦτο τ. σόφ’. ἦν τοιοῦτο]
 οἶα τ. π.</note>
-<note type="footnote">20. παραλαβών] i 7 παρ᾿ 
+<note type="footnote">20. παραλαβών] i 7 παρ’
 ἠμῶν. . . λαμβάνει.</note>
 
 <pb n="46"/>
@@ -1863,9 +1863,9 @@ constr. is τοῦτο τ. σόφ’. ἦν τοιοῦτο]
 <p>Οὗτοι μὲν δὴ ταῦτα· ἡμᾶς δὲ ὁ λόγος δεξάμενος
 <lb n="5"/> ἐφιεμένους θεοῦ, καὶ μὴ ἀνεχομένους τὸ ἀνηγεμόνευτόν τε
 καὶ ἀκυβέρνητον, εἶτα τοῖς ὁρωμένοις προσβάλλων καὶ
-τοῖς ἀπαρχῆς ἐντυγχάνων, οὔτε μέχρι τούτων ἔστησεν,—
+τοῖς ἀπαρχῆς ἐντυγχάνων, οὔτε μέχρι τούτων ἔστησεν, —
 οὐ γὰρ ἦν λόγου δοῦναι τὴν ἡγεμονίαν τοῖς ὁμοτίμοις κατὰ
-τὴν αἴσθησιν,—καὶ διὰ τούτων ἄγει πρὸς τὸ ὑπὲρ ταῦτα,
+τὴν αἴσθησιν, — καὶ διὰ τούτων ἄγει πρὸς τὸ ὑπὲρ ταῦτα,
 <lb n="10"/> καὶ δι’ οὗ τούτοις τὸ εἶναι περίεστιν. τί γὰρ τὸ τάξαν τὰ
 οὐράνια καὶ τὰ ἐπίγεια, ὅσα τε δι’ ἀέρος καὶ ὅσα καθ’ ὕδατος,
 μᾶλλον δὲ τὰ πρὸ τούτων, οὐρανόν, καὶ γῆν, καὶ ἀέρα,
@@ -2155,11 +2155,11 @@ with the ‘small breeze.’</note>
 His nature.’ If Gr. had meant ταῦτα
 = τὴν παρουσίαν, he must have said
 ταύτην.</note>
-<note type="footnote">2 Ἠλ. τίνι;] ‘and what Elias?’ 
+<note type="footnote">2 Ἠλ. τίνι;] ‘and what Elias?’
 i.e. what was he?</note>
 <note type="footnote">4. τὸν κριτήν] M. is not so styled
 in the book itself.</note>
-<note type="footnote">6. ἀπολώλαμεν] Judg. xiii 22—a a
+<note type="footnote">6. ἀπολώλαμεν] Judg. xiii 22–a a
 free version. But as Gr. quotes the
 words in precisely the same form in
 Or. ix 1, it is possible that he may
@@ -2389,7 +2389,7 @@ his discourse with astonishment.’</note>
 περιγράφεται; πῶς ζωὴν δίδωσι, καὶ πάθους μεταλαμ-
 βάνει; πῶς ὁ νοῦς καὶ περιγραπτὸς καὶ ἀόριστος, ἐν ἡμῖν
 μένων, καὶ πάντα ἐφοδεύων τάχει φορᾶς καὶ ῥεύσεως; πῶς
-<lb n="15"/> μεταλαμβάνεται λόγῳ καὶ μεταδίδοται, καὶ δι᾿ ἀέρος χωρεῖ,
+<lb n="15"/> μεταλαμβάνεται λόγῳ καὶ μεταδίδοται, καὶ δι’ ἀέρος χωρεῖ,
 καὶ μετὰ τῶν πραγμάτων εἰσέρχεται; πῶς αἰσθήσει
 <note type="footnote">6 ἑαυτοῦ] αὐτοῦ ce 22. 8 γὰρ] ’δε e || 12 περιγράφεται] περιφέρεται ac</note>
 <note type="footnote">1. τὸ τοιοῦτο] ‘such a thing,’
@@ -2410,7 +2410,7 @@ overwhelming.</note>
 μὴ δύνωμαι πρὸς αὐτήν. Περίδρ.,
 ‘grasp.’</note>
 <note type="footnote">22. Well might David despair;
-for how marvellous is man's constitutuion,—his
+for how marvellous is man's constitutuion, — his
 birth, his sustenance,
 his instincts, his continuity, his very
 organs and the media in which they
@@ -2522,7 +2522,7 @@ common meaning of ὁ. = sulcus.</note>
 εἰσι τῶν ἔξωθεν, λόγῳ μὴ θεωρούμεναι. πολλὰ περὶ τῆς
 ἐν ὕπνοις ἀναπαύσεως, καὶ τῆς δι’ ὀνειράτων ἀναπλάσεως,
 μνήμης μὴς τε καὶ ἀναμνήσεως, λογισμοῦ τε καὶ θυμοῦ καὶ
-<lb n="15"/> ἐφέσεως, καὶ συντόμως εἰπεῖν, ὅσοις ὁ μικρ·ὸς οὗτος κόσμος
+<lb n="15"/> ἐφέσεως, καὶ συντόμως εἰπεῖν, ὅσοις ὁ μικρὸς οὗτος κόσμος
 διοικεῖται, ὁ ἄνθρωπος.</p>
 <note type="footnote">5 ὑποδέχονται] υπηχουνται b || 12 λόγω λόγων ‘Reg. Cypr.’ ||
 + δε e || 15 οὕτος κόσμος διοικεῖται] κόσμος οὕτος διοικ. e: οὕτος διοικ. κόσμος f</note>
@@ -2717,7 +2717,7 @@ to whistle.</note>
 καὶ κάλλος ἐξησκημέναι, καὶ τοῖς τρεφομένοις ἐπιτηδείως; <lb n="15"/>
 πόθεν δὲ μελίσσαις τε καὶ ἀράχναις τὸ φιλεργὸν
 καὶ φιλότεχνον, ἵνα ταῖς μὲν τὰ κηρία πλέκηται καὶ
-συνέχηται δι᾿ ἑξαγώνων συρίγγων καὶ ἀντιστρόφων, καὶ τὸ
+συνέχηται δι’ ἑξαγώνων συρίγγων καὶ ἀντιστρόφων, καὶ τὸ
 ἑδραῖον αὐταῖς διὰ τοῦ μέσου διατειχίσματος καὶ ἀλλαγῆς
 ἐπιπλεκομένων ταῖς εὐθείαις τῶν γωνιῶν πραγματεύηται, <lb n="20"/>
 <note type="footnote">1 ποθεν + δε e || 2 ωστε] ος c || 3 om η bc || 4 καλλωπιζηται] -ζεται
@@ -2753,7 +2753,7 @@ cp. § 6 ἠσκ.</note>
 of hexagonal pipes complementary to
 each other, and the fabric secured
 (lit. the firmness is effected) by means
-of the dividing wall and the combi- 
+of the dividing wall and the combi-
 nation
 ὁ the angles with the straight
 lines.' The ’dividing ’ is perh.
@@ -2849,7 +2849,7 @@ def</note>
 to the time’ for which the
 food is required.</note>
 <note type="footnote">26. Plants, stones, earth, and its
-springs—its medicinal waters—are
+springs — its medicinal waters — are
 full of wonders ; the stability of the
 earth, its adaptation of mountain
 and plain to the convenience of its
@@ -3022,7 +3022,7 @@ Job xxvi 10. Γυρῷ, ‘to round.’</note>
 ἐγύρωσεν ἐπὶ πρόσωπον ὕδατος. τοῦτο τῆς ὑγρᾶς φύσεως
 ὁ δεσμός. πῶς δὲ τὸν χερσαῖον ναυτίλον ἄγει ξύλῳ μικρῷ
 καὶ πνεύματι, — τοῦτο οὐ θαυμάζεις ὁρῶν; οὐδ’ ἐξίσταταί
-σου ἡ διάνοια; — iva γῆ καὶ θάλασσα δεθῶσι ταῖς χρείαις
+σου ἡ διάνοια; — ἵνα γῆ καὶ θάλασσα δεθῶσι ταῖς χρείαις
 <lb n="5"/> καὶ ταῖς ἐπιμιξίαις, καὶ εἰς ἓν ἔλθῃ τῷ ἀνθρώπῳ τὰ
 τοσοῦτον ἀλλήλων διεστηκότα κατὰ τὴν φύσιν; τίνες δὲ
 πηγῶν αἱ πρῶται πηγαί, ζήτησον, ἄνθρωπε, εἴ τί σοι
@@ -3097,7 +3097,7 @@ mena of meteorology.</note>
 ταμιεῖα; τίνες δὲ θησαυροὶ χιόνος; τίς δὲ ὁ τετοκὼς βώλους
 δρόσου, κατὰ τὸ γεγραμμένον; ἐκ γαστρὸς δὲ τίνος ἐκπορεύεται
 κρύσταλλος; τίς ὁ δεσμεύων ὕδωρ ἐν νεφέλαις, καὶ
-τὸ μὲν ἱστὰς ἐπὶ τῶν νεφελῶν—ὣ τοῦ θαύματος—λόγῳ
+τὸ μὲν ἱστὰς ἐπὶ τῶν νεφελῶν — ὣ τοῦ θαύματος — λόγῳ
 κρατουμένην φύσιν τὴν ῥέουσαν, τὸ δὲ ἐκχέων ἐπὶ πρόσωπον
 πάσης τῆς γῆς, καὶ σπείρων καιρίως καὶ ὁμοτίμως,
 καὶ οὔτε ἀφιεὶς ἅπασαν τὴν ὑγρὰν οὐσίαν ἐλευθέραν καὶ
@@ -3107,7 +3107,7 @@ mena of meteorology.</note>
 || 17 ουτε] οὐδὲ abef ΙΙ απασαν] ἅπασι ’Reg. Cypr.’</note>
 <note type="footnote">1. οὐκ ἀξίαις] ’by deserts’; Matt.
 v 45; or perh. ’ by differences of
-rank.’ Τύχαις, ‘by fortunes.’ ῾Ηλ., 
+rank.’ Τύχαις, ‘by fortunes.’ ῾Ηλ.,
 coming after ὄροις, may mean ’ages’
 in the sense of a measurement of
 time, ’to certain generations.’</note>
@@ -3291,7 +3291,7 @@ heat.’ Ἄκρον is the LXX. word in
 Ps. xviii 7 (xix 6). The following
 words are not a quotation, but only
 an allusion to those of the Ps.</note>
-<note type="footnote">5. θέροντος] ᾿warming.’
+<note type="footnote">5. θέροντος] ‘warming.’
 <lb n="30."/> The sun; day and night, the
 seasons; the moon and stars.</note>
 <note type="footnote">8.&gt; ἐκεῖνο] the thought expressed
@@ -3327,7 +3327,7 @@ gained upon the other.</note>
 τὴν δυναστείαν, ἡ δὲ νυκτὸς προκαθέζεται, καὶ ἡ μὲν θηρίοις
 δίδωσι παρρησίαν, ὁ δὲ ἄνθρωπον ἐπὶ τὸ ἔργον ἀνίστησιν,
 ἢ ὑψούμενος ἢ ταπεινούμενος πρὸς τὸ χρησιμώτατον; <lb n="10"/>
-συνῆκας δὲ δεσμὸν Πλειάδος ἢ φραγμὸν ᾿Ωρίωνος, ὡς ὁ
+συνῆκας δὲ δεσμὸν Πλειάδος ἢ φραγμὸν Ὠρίωνος, ὡς ὁ
 ἀριθμῶν πλήθη ἄστρων καὶ πᾶσιν αὐτοῖς ὀνόματα καλῶν,
 καὶ δόξης ἑκάστου διαφοράν, καὶ τάξιν κινήσεως, ἵνα σοι
 πιστεύσω διὰ τούτων πλέκοντι τὰ ἡμέτερα καὶ κατὰ τοῦ
@@ -3362,7 +3362,7 @@ mark a different kind of transition).’</note>
 i 16, 18 (Ps. cxxxvi 7); but δὺν.
 does not occur in the LXX. there,
 8. θηρίοις κτλ.] a ref. to Ps. ciii
-(civ) 20 — 23.</note>
+(civ) 20–23.</note>
 <note type="footnote">11. συνῆκας κτλ.] Job xxxviii 31.</note>
 <note type="footnote">ib. 6 ἀριθμῶν κτλ.] Ps. cxlvi
 (cxlvii) 4.</note>
@@ -3523,7 +3523,7 @@ to say μόνης, to bring out its absolute
 uniqueness.</note>
 </div>
     </div>
-    
+
     </body>
   </text>
 </TEI>
