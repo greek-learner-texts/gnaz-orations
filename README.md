@@ -25,7 +25,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 With Pipfile loaded,
 
-* `scripts/extract_ogl.py > text/orat27.txt`
+* `scripts/extract_ogl.py`
 * `scripts/text-to-chap.py`
 * `scripts/chap-to-sent.py`
 * `scripts/add-norm.py`
