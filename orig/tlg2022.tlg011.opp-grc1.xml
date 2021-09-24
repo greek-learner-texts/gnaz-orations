@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xml:lang="eng">   
+  <teiHeader xml:lang="eng">
     <fileDesc>
 <titleStmt><title xml:lang="lat">De Spiritu Sancto (Orat. 31)</title>
 <editor>Arthur James Mason</editor>
@@ -105,14 +105,14 @@ License</licence>
 
 <pb n="145"/>
 <head>ΘΕΟΑΟΓΙΚΟΣ ΠΕΜΠΤΟΣ.</head>
-<head>ΠΕΡΙ TOY ΑΓΙΟΥ ΠΝΕΥΜΑΤΟΣ.</head>
+<head>ΠΕΡΙ ΤΟΥ ΑΓΙΟΥ ΠΝΕΥΜΑΤΟΣ.</head>
             <div type="textpart" subtype="chapter" n="1">
                 <p>Ὁ μὲν δὴ περὶ τοῦ υἱοῦ λόγος τοιοῦτος· καὶ
 οὕτω διαπέφευγε τοὺς λιθάζοντας, διελθὼν διὰ μέσου
 αὐτῶν. ὁ λόγος γὰρ οὐ λιθάζεται, λιθοβολεῖ δέ, ὅταν
 ἐθέλῃ, καὶ σφενδονᾷ θηρία, λόγους κακῶς τῷ ὄρει προσβαίνοντας.
-τί δ’ ἂν εἴποις, φασί, περὶ τοῦ ἁγίου πνεύματος ; <lb n="5"/>
-πόθεν ἡμῖν ἐπεισάγεις ξένον θεὸν καὶ ἄγραφον ; τοῦτο ἤδη
+τί δ’ ἂν εἴποις, φασί, περὶ τοῦ ἁγίου πνεύματος; <lb n="5"/>
+πόθεν ἡμῖν ἐπεισάγεις ξένον θεὸν καὶ ἄγραφον; τοῦτο ἤδη
 καὶ οἱ περὶ τὸν υἱὸν μετριάζοντες. ὅπερ γὰρ ἐπὶ τῶν ὁδῶν
 εὑρεῖν ἐστὶ καὶ τῶν ποταμῶν, σχίζονταί τε ἀπ’ ἀλλήλων,
 καὶ εἰς ἄλληλα συνάγονται· τοῦτο κἀνταῦθα συμβαίνει
@@ -261,7 +261,7 @@ agree with ’ But the mss.
 are not of very great value in matters
 of this kind (and it must be remembered
 that the principal MS. fails us
-at this point) ; and it would be difficult
+at this point); and it would be difficult
 to supply a verb that would
 suit ταὐτά, which the obvious φιλοσοφοῦμεν
 would not do. Ἐπεὶ will
@@ -284,9 +284,9 @@ man, equally with the Father and
 the Son. I will fearlessly proclaim
 Him.</note>
 <note type="footnote">5. παρέγγραπτον] wrongly entered
-on the list ; cp. iii 18.</note>
+on the list; cp. iii 18.</note>
 <note type="footnote">7. πρόπολεμοῦντες τ. γρ] Gr.
-will not say τῆς γραφῆς ; cp. iv 1 οἱ
+will not say τῆς γραφῆς; cp. iv 1 οἱ
 τοῦ γράμματος ἱερόσυλοι.</note>
 <note type="footnote">ib. ἐκεῖ φοβούμενοι φ.] Ps. Iii 6
 (Hii 5).</note>
@@ -317,7 +317,7 @@ clause τὰς αὐτὰς . . . ἐφαρμόζοντες.</note>
 νῦν ἡμεῖς καὶ τεθεάμεθα καὶ κηρύσσομεν, ἐκ φωτὸς τοῦ
 <lb n="10"/> πατρὸς φῶς καταλαμβάνοντες τὸν υἱὸν ἐν φωτὶ τῷ
 πνεύματι, σύντομον καὶ ἀπέριττον τῆς τριάδος θεολογίαν.
-ὁ ἀθετῶν ἀθετείτω, ὁ ἀνομῶν ἀνομείτω · ἡμεῖς ὂ νενοήκαμεν,
+ὁ ἀθετῶν ἀθετείτω, ὁ ἀνομῶν ἀνομείτω· ἡμεῖς ὂ νενοήκαμεν,
 καὶ κηρύσσομεν. ἐπ’ ὄρος ὑψηλὸν ἀναβησόμεθα καὶ βοήσομεν,
 εἰ μὴ κάτωθεν ἀκουοίμεθα. ὑψώσομεν τὸ πνεῦμα,
 <lb n="15"/> οὐ φοβηθησόμεθα. εἰ δὲ καὶ φοβηθησόμεθα, ἡσυχάζοντες,
@@ -331,8 +331,8 @@ om καὶ f || 15 ησυχαζοντες] ἡσυχάσομεν f</note>
 <note type="footnote">1. ἢν τὸ φῶς] John i 9. There
 is no need to suppose that Gr. intends
 to make ἦν into a mere
-copula ; ‘ the true light was the
-Father.' Ὁ πατὴρ would more
+copula; ‘the true light was the
+Father.’ Ὁ πατὴρ would more
 naturally be in apposition to τὸ
 φῶς.</note>
 <note type="footnote">8. ἐν τῷ φωτί σου] Ps. xxxv 10
@@ -344,7 +344,7 @@ Ambr. de Sp. S. i 15.</note>
 <note type="footnote">9. τεθεάμεθα κτλ.] The passage
 is influenced by 1 John i 3, 5.
 ib. ἐκ φωτὸς τοῦ πατρός] This is
-implied in the word ’Thy ’;
+implied in the word ‘Thy’;
 the Holy Ghost is the ’s light,
 which implies that the Source from
 which He proceeds is light also.</note>
@@ -362,12 +362,12 @@ pared people who were forbidden to
 go up with him.</note>
 <note type="footnote">15. εἰ δὲ καὶ φοβ.] ’and if we
 should be afraid at all, it will be for
-holding our peace , not for proclaim-
+holding our peace, not for proclaim-
 ing Him?</note>
 <note type="footnote">4. There never was α time when
 He was not. No one person of the
 Trinity can be imagined to exist or
-to have ever existedwithoutthe others ;
+to have ever existedwithoutthe others;
 for an imperfect Godhead is unthinkable;
 able; especially a Godhead
 holiness. If He ever began to exist,
@@ -379,12 +379,12 @@ Godhead?</note>
 εἰ ἦν ὅτε οὐκ ἦν ὁ υἱός, ἦν ὅτε οὐδὲ τὸ πνεῦμα τὸ ἅγ ἴον.
 εἰ τὸ ἓν ἢν ἀπ’ ἀρχῆς, καὶ τὰ τρία. εἰ τὸ ἓν κάτω
 βάλλεις, τολμῶ, καὶ λέγω, μηδὲ τὰ δύο θῇς ἄνω. τίς γὰρ
-ἀτελοῦς θεότητος ὄνησις ; μᾶλλον δὲ τίς θεότης, εἰ μὴ
-τελεία ; τελεία δὲ πῶς, ᾗ λείπει τι πρὸς τελείωσιν ; λείπει <lb n="5"/>
+ἀτελοῦς θεότητος ὄνησις; μᾶλλον δὲ τίς θεότης, εἰ μὴ
+τελεία; τελεία δὲ πῶς, ᾗ λείπει τι πρὸς τελείωσιν; λείπει <lb n="5"/>
 δέ πὼς, μὴ ἐχούσῃ τὸ ἅγ ἴον· ἔχοι δ’ ἂν πῶς, μὴ τοῦτο
-ἔχουσα ; ἢ γὰρ ἄλλη τις παρὰ τοῦτο ἡ ἁγιότης ’ καὶ ἥ τις
+ἔχουσα; ἢ γὰρ ἄλλη τις παρὰ τοῦτο ἡ ἁγιότης· καὶ ἥ τις
 αὕτη νοεῖται, λεγέτω τις· ἢ εἴπερ ἡ αὐτή, πῶς οὐκ ἀπ’
-ἀρχῆς ; ὥσπερ ἄμεινον ὂν τῷ θεῷ εἶναί ποτε ἀτελεῖ,
+ἀρχῆς; ὥσπερ ἄμεινον ὂν τῷ θεῷ εἶναί ποτε ἀτελεῖ,
 καὶ δίχα πνεύματος. εἰ μὴ ἀπ’ ἀρχῆς ἢν, μετ’ ἐμοῦ <lb n="10"/>
 τέτακται, καὶ εἰ μικρὸν πρὸ ἐμοῦ. χρόνῳ γὰρ ἀπὸ θεοῦ
 τεμνόμεθα. εἰ τέτακται μετ’ ἐμοῦ, πῶς ἐμὲ ποιεῖ θεόν,
@@ -405,7 +405,7 @@ two up ’ because it is useless
 and illogical to attempt it.</note>
 <note type="footnote">4. εἰ μὴ τελεία] I retain this
 reading in the text, as it has most
-authority and makes good sense ;
+authority and makes good sense;
 but I have little doubt that the true
 reading, which would account for
 the variants, is ἡ μὴ τελεία.</note>
@@ -463,7 +463,7 @@ cp. iv 16.</note>
 τερῶν] σοφώτερον ’in nonnull.’</note>
 <note type="footnote">1. οὐδὲ γὰρ ἀγγ.] Acts xxiii 8.
 Gr.'s remark is not exactly logical
-γάρ) ; the denial of angels would
+γάρ); the denial of angels would
 not involve the denial of the Holy
 Spirit. It looks as if he had carelessly
 taken πνεῦμα in that passage
@@ -525,7 +525,7 @@ other, as to make the first’ etc.</note>
 καθ’ ἑαυτὸ ὑφεστηκότων πάντως ὑποθετέον, ἢ τῶν ἐν <lb n="10"/>
 ἑτέρῳ θεωρουμένων· ὧν τὸ μὲν οὐσίαν καλοῦσιν οἱ περὶ
 ταῦτα δεινοί, τὸ δὲ συμβεβηκός. εἰ μὲν οὖν συμβέβηκεν,
-ἐνέργεια τοῦτο ἂν εἴη θεοῦ. τί γὰρ ἕτερον, ἢ τίνος ; τοῦτο
+ἐνέργεια τοῦτο ἂν εἴη θεοῦ. τί γὰρ ἕτερον, ἢ τίνος; τοῦτο
 <note type="footnote">5 νομιζοντας] -τες b 6. 7 ουδεις] ουδεις ο b: ουδε εις ce ‘duo Reg.’ ||
 9 διαλεξωμεθα b</note>
 <note type="footnote">2. ἄλλον τρόπον μιμ.] ‘imitating,
@@ -597,11 +597,11 @@ besides could it come?’</note>
 εἰ δὲ οὐσία τις, οὐ τῶν περὶ τὴν οὐσίαν, ἤτοι κτίσμα
 ὑποληφθήσεται, ἢ θεός. μέσον γάρ τι τούτων, ἤτοι μηδετέρου
 μετέχον, ἢ ἐξ ἀμφοῖν σύνθετον, οὐδ’ ἂν οἱ τοὺς
-τραγελάφους πλάττοντες ἐννοήσαιεν. ἀλλ᾿ εἰ μὲν κτίσμα,
-<lb n="10"/> πῶς εἰς αὐτὸ πιστεύομεν, ἢ ἐν αὐτῷ τελειούμεθα ; οὐ γὰρ
+τραγελάφους πλάττοντες ἐννοήσαιεν. ἀλλ’ εἰ μὲν κτίσμα,
+<lb n="10"/> πῶς εἰς αὐτὸ πιστεύομεν, ἢ ἐν αὐτῷ τελειούμεθα; οὐ γὰρ
 ταὐτόν ἐστι πιστεύειν εἴς τι, καὶ περὶ αὐτοῦ πιστεύειν.
 τὸ μὲν γάρ ἐστι θεότητος, τὸ δὲ παντὸς πράγματος. εἰ δὲ
-θεός, ἀλλ᾿ οὐ κτίσμα, οὐδὲ ποίημα, οὐδὲ σύνδουλον, οὐδ᾿
+θεός, ἀλλ’ οὐ κτίσμα, οὐδὲ ποίημα, οὐδὲ σύνδουλον, οὐδ’
 ὅλως τι τῶν ταπεινῶν ὀνομάτων.</p>
 <note type="footnote">1 και ει] om ει b || 2 τω] το b || 7 υπολειφθησεται ‘Or. 1’</note>
 <note type="footnote">1. φεύγει σύνθεσιν] It is assumed
@@ -643,7 +643,7 @@ rightly says that the distinction is
 more characteristic of Western than
 of Eastern theology.</note>
 <note type="footnote">13. οὐδὲ ποίημα] sc. ἐστί. The apodosis
-begins at this point, not at ἀλλ᾿
+begins at this point, not at ἀλλ’
 οὐ κτίσμα.</note>
 <note type="footnote">7. Now it is your turn. ‘Is He
 begotten, or unbegotten? If begotten,
@@ -661,15 +661,15 @@ manner of strange things.</note>
 </div>
 
 <div type="textpart" subtype="chapter" n="7">
-<p>Ἑνταῦθα σὸς ὁ λόγος ’ αἱ σφενδόναι πεμπέσθωσαν,
+<p>Ἑνταῦθα σὸς ὁ λόγος· αἱ σφενδόναι πεμπέσθωσαν,
 οἱ συλλογισμοὶ πλεκέσθωσαν. ἢ ἀγέννητον πάντως, ἢ
 γεννητόν. καὶ εἰ μὲν ἀγέννητον, δύο τὰ ἄναρχα. εἰ δὲ
 γεννητόν, ὑποδιαίρει πάλιν· ἢ ἐκ τοῦ πατρὸς τοῦτο, ἢ ἐκ
 τοῦ υἱοῦ. καὶ εἰ μὲν ἐκ τοῦ πατρός, υἱοὶ δύο καὶ ἀδελφοί. <lb n="5"/>
 σὺ δέ μοι πλάττε καὶ διδύμους, εἰ βούλει, ἢ τὸν μὲν
-πρεσβύτερον, τὸν δὲ νεώτερον ’ ἐπειδὴ λίαν εἶ φιλοσώματος.
+πρεσβύτερον, τὸν δὲ νεώτερον· ἐπειδὴ λίαν εἶ φιλοσώματος.
 εἰ δὲ ἐκ τοῦ υἱοῦ, πέφηνέ, φησι, καὶ υἱωνὸς ἡμῖν θεός· οὗ
-τί ἂν γένοιτο παραδοξότερον ; ταῦτα μὲν οὖν οἱ σοφοὶ τοῦ
+τί ἂν γένοιτο παραδοξότερον; ταῦτα μὲν οὖν οἱ σοφοὶ τοῦ
 κακοποιῆσαι, τὰ δὲ ἂγ ἀθ’ ἁ γράφειν οὐ θέλοντες. ἐγὼ δὲ εἰ <lb n="10"/>
 μὲν ἑώρων ἀναγκαίαν τὴν διαίρεσιν, ἐδεξάμην ἂν τὰ πράγματα,
 οὐ φοβηθεὶς τὰ ὀνόματα. οὐ γάρ, ἐπειδὴ κατά τινα
@@ -678,9 +678,9 @@ manner of strange things.</note>
 πάσας οἰητέον ἀναγκαῖον εἶναι τὰς κάτω κλήσεις, καὶ τῆς <lb n="15"/>
 ἡμετέρας συγγενείας, μεταφέρειν ἐπὶ τὸ θεῖον. ἢ τάχα ἃν
 σύ γε καὶ ἄρρενα τὸν θεὸν ἡμῖν ὑπολάβοις, κατὰ τὸν λόγον
-τοῦτον, ὅτι θεὸς ὀνομάζεται, καὶ πατήρ ; καὶ θῆλύ τι τὴν
-θεότητα, ὅσον ἐπὶ ταῖς κλήσεσι ; καὶ τὸ πνεῦμα οὐδέτερον,
-ὅτι μὴ γεννητικόν ; εἰ δέ σοι καὶ τοῦτο παιχθείη, τῇ ἑαυτοῦ <lb n="20"/>
+τοῦτον, ὅτι θεὸς ὀνομάζεται, καὶ πατήρ; καὶ θῆλύ τι τὴν
+θεότητα, ὅσον ἐπὶ ταῖς κλήσεσι; καὶ τὸ πνεῦμα οὐδέτερον,
+ὅτι μὴ γεννητικόν; εἰ δέ σοι καὶ τοῦτο παιχθείη, τῇ ἑαυτοῦ <lb n="20"/>
 <note type="footnote">7, 4 υποδιαιρησει ’Reg. Copr.' || 15 τῆς] τὰς b ΙΙ 18 omn ’Reg. a’</note>
 <note type="footnote">1. ἐνταῦθα σὸς 6 λ.] ‘now for your
 say’ It begins at ἢ ἀγέννητον.</note>
@@ -754,7 +754,7 @@ among the Gnostics. Perh. therefore
 Gr. uses his name with that of
 Valentinus to denote in contemptuous
 indifference Gnosticism in
-general ; or perh. he confuses Marcion
+general; or perh. he confuses Marcion
 with Marcus, the disciple of
 Val., from whom the Marcosians
 take their name.</note>
@@ -825,7 +825,7 @@ proceeds.</note>
 the natural history of.’</note>
 <note type="footnote">6. παραπληκriσωμεν] ‘ and let us
 both go mad for prying into the
-secrets of God' ; a well-known superstition.</note>
+secrets of God'; a well-known superstition.</note>
 <note type="footnote">7. καἰ ταῦτα τίνες] ‘ and who are
 we that we should pry into them ?'</note>
 <note type="footnote">8. ψάμμον θαλασσῶν κτλ.] Ecclus.
@@ -854,13 +854,13 @@ in any direction, nor the inferiority
 of essence.' The ταῦτα
 not refer only to what has immediately
 preceded, viz. that the Father
-is not Son ; this would not suggest
+is not Son; this would not suggest
 any thought of ὕφεσις. It refers also
 to the ’s not being Father, nor
 the Spirit Son.</note>
 
 <pb n="156"/>
-ἐλλείψεως ταῦτά ποθεν, οὐδὲ τῆς κατὰ τὴν οὐσίαν ὑφέσεως ·
+ἐλλείψεως ταῦτά ποθεν, οὐδὲ τῆς κατὰ τὴν οὐσίαν ὑφέσεως·
 αὐτὸ δὲ τὸ μὴ γεγεννῆσθαι, καὶ τὸ γεγεννῆσθαι, καὶ τὸ
 ἐκπορεύεσθαι, τὸν μὲν πατέρα, τὸν δὲ υἱόν, τὸ δὲ τοῦθ’
 ὅπερ λέγεται πνεῦμα ἅγιον προσηγόρευσεν, ἵνα τὸ ἀσύγχυτον
@@ -873,8 +873,8 @@ the Spirit Son.</note>
 </div>
 
 <div type="textpart" subtype="chapter" n="10">
-<p>Τί οὖν ; θεὸς τὸ πνεῦμα ; πάνυ γε. τί οὖν,
-ὁμοούσιον ; εἴπερ θεός. δὸς οὖν μοί, φησιν, ἐκ τοῦ αὐτοῦ
+<p>Τί οὖν; θεὸς τὸ πνεῦμα; πάνυ γε. τί οὖν,
+ὁμοούσιον; εἴπερ θεός. δὸς οὖν μοί, φησιν, ἐκ τοῦ αὐτοῦ
 <note type="footnote">2 τὸ γεγεννησθαι] το γεγενῆσθαι a: om καὶ τὸ γεγεννῆσθαι f || 3 εκπεπορευσθαι
 αἰ ’Reg. Cypr.' || 6 αξια] εξουσια e || 7 ὑίος] ο ὑίος a || 8 o
 ὑίος] om ο d || om τὰ f || 9 om τῆ bed || 10 νυν] σου νυν b ’Reg.
@@ -900,7 +900,7 @@ nature; the One is Three — a Trinity
 — in the ineffaceable distinction
 between the persons. The latter
 observation removes the Sabellian
-conception of the unity ; the former
+conception of the unity; the former
 removes the Eunomian division of
 the natures. In the construction of
 the last clause, τῆς π. ν. διαιρέσεως
@@ -917,7 +917,7 @@ which it might help you
 to consider.</note>
 <note type="footnote">12. δὸς οὖν μοι] The word διδόναι
 is not used here in its frequent
-sense of a logical concession ; for it
+sense of a logical concession; for it
 would be no concession to the
 Eunomians to ’give’ what is here
 required. It means rather, ’shew
@@ -968,7 +968,7 @@ Colb.’: εἰς θεὸς τε καὶ μία Φυσις de || 6 η] εἰ �
 tory’; cp. ii 22 πῶς κάτω μῶ.</note>
 <note type="footnote">10. ἐκζητεῖσθαι τὰ ζ.] Is. viii 19;
 cp. Luke xxiv 5.</note>
-<note type="footnote">13. ἡμῖν γνώριμα] known to us	
+<note type="footnote">13. ἡμῖν γνώριμα] known to us
 all by direct observation; opp. to
 what only few have had the opportunity
 of noting. Gr.’s lore on
@@ -982,7 +982,7 @@ yet equally frogs. His instance of
 the converse is more true to nature,
 but a less exact illustration of his
 subject.</note>
-<note type="footnote">19.δαπανώμενον] ‘consumed,’ 	
+<note type="footnote">19.δαπανώμενον] ‘consumed,’
 cp. iv 6. The ref. of course is to
 the phoenix (Herod, ii 73); see Lightfoot's note on Clem, ad cor.
 § 25. Gr. himself evidently does not
@@ -998,7 +998,7 @@ quite believe the fable.</note>
 </div>
 
 <div type="textpart" subtype="chapter" n="11">
-<p>Ὁ Ἀδὰμ τί ποτε ἦν ; πλάσμα θεοῦ. τί δὲ ἡ
+<p>Ὁ Ἀδὰμ τί ποτε ἦν; πλάσμα θεοῦ. τί δὲ ἡ
 Εὖα; τμῆμα τοῦ πλάσματος. τί δὲ ὁ Σήθ;
 γέννημα. ἆρ’ οὖν ταὐτόν σοι φαίνεται πλάσμα, καὶ τμῆμα,
 <lb n="10"/> καὶ γέννημα; πῶς οὔ; ὁμοούσια δὲ ταῦτα, ἢ τί; πῶς δ’ οὔ;
@@ -1009,7 +1009,7 @@ quite believe the fable.</note>
 <lb n="15"/> ἐπὶ δὲ τούτων θεωρῶν, ὡς ἐπὶ σκηνῆς, τὰ νοούμενα. οὐδὲ
 γὰρ οἷόν τε τῶν εἰκαζομένων οὐδὲν πρὸς πᾶσαν ἐξικνεῖσθαι
 καθαρῶς τὴν ἀλήθειαν. καὶ τί ταῦτά, φασιν; οὐ γὰρ τοῦ
-ἑνὸς τὸ μὲν γέννημα, τὸ δὲ ἄλλο τι. τί οὖν; ἡ Eὖα καὶ
+ἑνὸς τὸ μὲν γέννημα, τὸ δὲ ἄλλο τι. τί οὖν; ἡ Εὖα καὶ
 Σήθ, οὐχὶ τοῦ αὐτοῦ τοῦ Ἀδάμ; τίνος γὰρ ἄλλου; ἢ καὶ
 <note type="footnote">11. 9 ταὐτὸν] ταύτα acg || ΙΙ τὰ] τὸ e || 1 7 φασιν] φησιν c</note>
 <note type="footnote">1. εἰς ἄλλα μεθιστάμενα] Elias
@@ -1053,7 +1053,7 @@ others, one by generation, the other
 in some other way.</note>
 
 <pb n="159"/>
-ἀμφότεροι γεννήματα ; οὐδαμῶς. ἀλλὰ τί; τὸ μὲν τμῆμα,
+ἀμφότεροι γεννήματα; οὐδαμῶς. ἀλλὰ τί; τὸ μὲν τμῆμα,
 τὸ δὲ γέννημα. καἰ μὴν ἀμφότεροι ταὐτὸν ἀλλήλοις·
 ἄνθρωποι γάρ· οὐδεὶς ἀντερεῖ. παύσῃ οὖν ἀπομαχόμενος
 πρὸς τὸ πνεῦμα, ὡς ἢ γέννημα πάντως, ἢ μὴ ὁμοούσιον,
@@ -1063,10 +1063,10 @@ in some other way.</note>
 </div>
 
 <div type="textpart" subtype="chapter" n="12">
-<p>Ἀλλὰ τίς προσεκύνησε τῷ πνεύματί, φησιν ; τίς
-ἢ τῶν παλαιῶν, ἢ τῶν νέων ; τίς δὲ προσηύξατο ; ποῦ δὲ
-τὸ χρῆναι προσκυνεῖν ἢ προσεύχεσθαι γέγραπται ; καὶ <lb n="10"/>
-πόθεν τοῦτο ἔχεις λαβών ; τὴν μὲν τελεωτέραν αἰτίαν
+<p>Ἀλλὰ τίς προσεκύνησε τῷ πνεύματί, φησιν; τίς
+ἢ τῶν παλαιῶν, ἢ τῶν νέων; τίς δὲ προσηύξατο; ποῦ δὲ
+τὸ χρῆναι προσκυνεῖν ἢ προσεύχεσθαι γέγραπται; καὶ <lb n="10"/>
+πόθεν τοῦτο ἔχεις λαβών; τὴν μὲν τελεωτέραν αἰτίαν
 ἀποδώσομεν ὕστερον, ἡνίκα ἂν περὶ τοῦ ἀγράφου διαλεγώμεθα.
 νῦν δὲ τοσοῦτον εἰπεῖν ἐξαρκέσει· τὸ πνεῦμά ἐστιν,
 ἐν ᾧ προσκυνοῦμεν, καὶ δι’ οὗ προσευχόμεθα. Πνεῦμα
@@ -1115,7 +1115,7 @@ whole argument, beginning with
 ἢ αὐτὸ ἑαυτῷ τὴν εὐχὴν προσάγειν καὶ τὴν προσκύνησιν.
 ὃ τίς οὐκ ἂν ἐπαινέσειε τῶν ἐνθέων, καὶ τῶν εὖ εἰδότων
 <lb n="5"/> ὅτι καὶ ἡ τοῦ ἑνὸς προσκύνησις τῶν τριῶν ἐστὶ προσκύνησις,
-διὰ τὸ ἐν τοῖς τρισὶν ὁμότιμον τῆς ἀξίας καὶ τῆς θεότητος ;
+διὰ τὸ ἐν τοῖς τρισὶν ὁμότιμον τῆς ἀξίας καὶ τῆς θεότητος;
 καὶ μὴν οὐδὲ ἐκεῖνο φοβηθήσομαι τὸ πάντα διὰ τοῦ υἱοῦ
 γεγονέναι λέγεσθαι, ὡς ἑνὸς τῶν πάντων ὄντος καὶ τοῦ
 ἁγίου πνεύματος. πάντα γὰρ ὅσα γέγονεν, εἴρηται, οὐχ
@@ -1124,7 +1124,7 @@ whole argument, beginning with
 συναρίθμησον. ἕως δ’ ἂν μὴ τοῦτο δεικνύῃς, οὐδὲν τῷ
 περιληπτικῷ βοηθῇ πρὸς ἀσέβειαν. εἰ μὲν γὰρ γέγονε,
 διὰ χριστοῦ πάντως· οὐδὲ αὐτὸς ἀρνήσομαι. εἰ δὲ οὐ
-<lb n="15"/> γέγονε, πῶς ἢ τῶν πάντων ἕν, ἢ διὰ χριστοῦ ; παῦσαι οὖν
+<lb n="15"/> γέγονε, πῶς ἢ τῶν πάντων ἕν, ἢ διὰ χριστοῦ; παῦσαι οὖν
 καὶ τὸν πατέρα κακῶς τιμῶν κατὰ τοῦ μονογενοῦς, — κακὴ δὲ
 τιμὴ κτίσμα διδόντα τὸ τιμιώτερον υἱὸν ἀποστερεῖν, — καὶ
 τὸν υἱὸν κατὰ τοῦ πνεύματος. οὐ γὰρ ὁμοδούλου δημιουργός,
@@ -1143,7 +1143,7 @@ text first quoted, in which the object
 of the worship πνεῦμά ἐστιν. Not
 that Gr. definitely takes the first
 πνεῦμα in that text to be the Holy
-Ghost ; but on the principle that
+Ghost; but on the principle that
 worship offered to one person of the
 Trinity is offered to all, his reasoning
 is correct, if his premisses are
@@ -1177,9 +1177,9 @@ of the Only-begotten.’</note>
 πρὸς τοὺς λογολέσχας, καὶ μὴ ἐρήμην ἁλῶναι, λόγον
 ἔχοντας, καὶ συνηγοροῦντας πνεύματι. εἰ θεός, φησι, καὶ
 θεός, καὶ θεός, πῶς οὐχὶ τρεῖς θεοί; ἢ πῶς οὐ πολυαρχία
-τὸ δοξαζόμενον ; ταῦτα τίνες; οἱ τελεώτεροι τὴν ἀσέβειαν, <lb n="10"/>
+τὸ δοξαζόμενον; ταῦτα τίνες; οἱ τελεώτεροι τὴν ἀσέβειαν, <lb n="10"/>
 ἢ καὶ οἱ τῆς δευτέρας μερίδος, λέγω δὲ τοὺς περὶ τὸν υἱόν
-πὼς εὐγνώμονας ; ὁ μὲν γὰρ κοινός μοι πρὸς ἀμφοτέρους
+πὼς εὐγνώμονας; ὁ μὲν γὰρ κοινός μοι πρὸς ἀμφοτέρους
 λόγος, ὁ δὲ πρὸς τούτους ἴδιος. ὁ μὲν οὖν πρὸς τούτους
 τοιοῦτος. τί φατε τοῖς τριθείταις ἡμῖν οἱ τὸν υἱὸν σέβοντες,
 <note type="footnote">13, 8 φησι] φασι cdf</note>
@@ -1241,17 +1241,17 @@ worship the Son, even if you have
 departed from the Spirit?</note>
 
 <pb n="162"/>
-εἰ καὶ τοῦ πνεύματος ἀφεστήκατε ; ὑμεῖς δὲ οὐ διθεῖται ;
+εἰ καὶ τοῦ πνεύματος ἀφεστήκατε; ὑμεῖς δὲ οὐ διθεῖται;
 εἰ μὲν γὰρ ἀρνεῖσθε καὶ τοῦ μονογενοῦς τὴν προσκύνησιν,
 σαφῶς τέταχθε μετὰ τῶν ἐναντίων· καὶ τί φιλανθρωπευόμεθα
-πρὸς ὑμᾶς ὡς οὐ πάντῃ νενεκρωμένους ; εἰ δὲ σέβεσθε,
+πρὸς ὑμᾶς ὡς οὐ πάντῃ νενεκρωμένους; εἰ δὲ σέβεσθε,
 <lb n="5"/> καὶ μέχρι τούτου διάκεισθε σωτηρίως, ὑμᾶς ἐρωτήσομεν·
-τίς ὁ λόγος τῆς διθείασ ὑμῖν, ἂν τοῦτο ἐγκαλῆσθε ; εἰ ἔστι
+τίς ὁ λόγος τῆς διθείασ ὑμῖν, ἂν τοῦτο ἐγκαλῆσθε; εἰ ἔστι
 λόγος συνέσεως, ἀποκρίθητε, δότε καὶ ἡμῖν ὁδὸν ἀποκρίσεως.
 οἷς γὰρ ἂν ὑμεῖς τὴν διθείαν ἀποκρούσησθε λόγοις, οὗτοι
 καὶ ἡμῖν κατὰ τῆς τριθείασ ἀρκέσουσι. καὶ οὕτω νικῶμεν,
 <lb n="10"/> ὑμῖν τοῖς κατηγόροις συνηγόροις χρώμενοι· οὗ τί
-γενναιοτερον ;</p>
+γενναιοτερον;</p>
 </div>
 
 <div type="textpart" subtype="chapter" n="14">
@@ -1292,7 +1292,7 @@ conceive of it as the possession of
 several personages independent
 each other. This argument, of
 course, is based on philosophical
-grounds, not on divine revelation ;
+grounds, not on divine revelation;
 but it bears witness to the reasonadvocacy
 ableness of that revelation.</note>
 <note type="footnote">ib. πρὸς ἐν τὰ ἐξ αὐτοῦ] Cp. iii
@@ -1323,7 +1323,7 @@ deo minus est, deus non est.</note>
 <div type="textpart" subtype="chapter" n="15">
 <p>Τί δέ, οὐχὶ καὶ παρ’ Ἕλλησι, φαῖεν ἄν, μία
 θεότης, ὡς οἱ τὰ τελεώτερα παρ’ ἐκείνοις φιλοσοφοῦντες, <lb n="10"/>
-καὶ παρ’ ἡμῖν ἀνθρωπότης μία, τὸ γένος ἅπαν ; ἀλλ’ ὅμως
+καὶ παρ’ ἡμῖν ἀνθρωπότης μία, τὸ γένος ἅπαν; ἀλλ’ ὅμως
 πολλοὶ θεοί, καὶ οὐχ εἷς, ὡς δὲ καὶ ἄνθρωποι; ἀλλ’ ἐκεῖ
 μὲν ἡ κοινότης τὸ ἓν ἔχει μόνον ἐπινοίᾳ θεωρητόν· τὰ δὲ
 <note type="footnote">I μεριστοις] μερισταῖς b 15. 12 θέοι πολλοὶ df || δε] δὴ df</note>
@@ -1362,7 +1362,7 @@ reverence, but because it sounds at
 first as if the three were ‘separate
 individualities’ like ourselves.
 also has its dangers, as possibly suggesting
-differences of nature ; but in
+differences of nature; but in
 the context this danger is removed.
 It is possible that Gr. here means
 to speak of the Father Himself as ἐκ
@@ -1371,7 +1371,7 @@ to speak of the Father Himself as ἐκ
 is the source of His own being.</note>
 <note type="footnote">15. The Greeks, it is true, spoke
 of α single Divine nature, compatible
-with plurality ; ἃς is the case
+with plurality; ἃς is the case
 also with human nature. But in
 these cases, each individual has but
 a fragment of the whole nature,
@@ -1409,14 +1409,14 @@ man in relation to the human genus.</note>
 μὲν ἐμπαθεῖς, ὡς δὲ στασιώδεις, ὅσων δὲ κακῶν γέμοντες
 καὶ μεταβολῶν, καὶ οὐ πρὸς ἀλλήλους μόνον ἀλλὰ καὶ
 <lb n="15"/> πρὸς τὰς πρώτας αἰτίας ἀντιθέτως ἔχοντες, οὓς δὴ
-᾿Ωκεανούς, καὶ Τηθύας, καὶ Φάνητας, καὶ οὐκ οἶδα οὕς
+Ὠκεανούς, καὶ Τηθύας, καὶ Φάνητας, καὶ οὐκ οἶδα οὕς
 <note type="footnote">4 καθαρῶς μένοντες οἱ αὐτοὶ df || 7 ἄνω) + καὶ bdf 16. 15 ovs] + καὶ
 e || 16 ὠκεανοὺς] + τε b</note>
 <note type="footnote">2, οὐ σύνθετοι μόνον] We are
 not only composite beings, made up
 of body and soul, and each of these
 factors again resoluble into different
-component parts ; we are beings of
+component parts; we are beings of
 opposite characteristics, — not only
 as compared with each other, but as
 compared with our own fluctuating
@@ -1449,7 +1449,7 @@ absolutely one with the others.</note>
 ref. is, no doubt, esp. to Plato’s
 denuntiation of the poets in Rep. ii,
 iii.</note>
-<note type="footnote">15. οὓς δὴ ᾿Ωκ.] The ‘First
+<note type="footnote">15. οὓς δὴ Ὠκ.] The ‘First
 Cayses,’ i.e. the original
 against which the others turn, are
 called Oceanus, and Tethys, and so
@@ -1472,7 +1472,7 @@ Arg. 15 ” (Lidd. and Sc).</note>
 ὁ ἐμὸς θεολόγος· ἀλλὰ τὸ ἓν ἕκαστον αὐτῶν ἔχει πρὸς τὸ <lb n="10"/>
 συγκείμενον οὐχ ἧττον ἢ πρὸς ἑαυτό, τῷ ταὐτῷ τῆς οὐσίας
 καὶ τῆς δυνάμεως. καὶ οὗτος ὁ τῆς ἑνώσεως λόγος, ὅσον
-ἐφ᾿ οἷς ἡμεῖς κατειλήφαμεν. εἰ μὲν οὖν οὗτος ἰσχυρὸς
+ἐφ’ οἷς ἡμεῖς κατειλήφαμεν. εἰ μὲν οὖν οὗτος ἰσχυρὸς
 ὁ λόγος, τῷ θεῷ χάρις τῆς θεωρίας· εἰ δὲ μή, ζητῶμεν
 τὸν ἰσχυρότερον.</p> <lb n="15"/>
 </div>
@@ -1480,7 +1480,7 @@ Arg. 15 ” (Lidd. and Sc).</note>
 <div type="textpart" subtype="chapter" n="17">
 <p>Τοὺς δὲ σοὺς λόγους οὐκ οἶδα πότερον παίζοντος
 εἶναι φήσομεν, ἢ σπουδάζοντος, οἷς ἀναιρεῖς ἡμῶν τὴν
-ἕνωσιν. τίς γὰρ δὴ καὶ ὁ λόγος ; τὰ ὁμοούσια συναριθμεῖταl,
+ἕνωσιν. τίς γὰρ δὴ καὶ ὁ λόγος; τὰ ὁμοούσια συναριθμεῖταί,
 φησι· συναρίθμησιν λέγων τὴν εἰς ἀριθμὸν ἕνα
 <note type="footnote">4 υπονοια (sic) και μυθοι τινες df || 13 εφ οις] εν οις d || ισχυρος ουτος df
 17. 17 φησομεν] φησαιμεν b || 19 φησι] φης f</note>
@@ -1512,9 +1512,9 @@ is like cutting your throat for fear
 of dying.</note>
 <note type="footnote">18. τὰ ὀμ. συναριθμεῖται] Things
 of the same nature, like men, trees,
-or horses, come under a number	
+or horses, come under a number
 which sums them up, as three trees,
-four horses, five men ; you cannot,
+four horses, five men; you cannot,
 acc. to the disputant, apply them to
 heterogeneous things, and class a
 tree, a horse, and a man together
@@ -1537,9 +1537,9 @@ as being three. Cp. Bas. de Sp. S.
 <div type="textpart" subtype="chapter" n="18">
 <p>Συναριθμεῖται, φής, τὰ ὁμοούσια· τὰ δὲ μὴ οὕτως
 ἔχοντα μοναδικὴν ἔχει τὴν δήλωσιν. πόθεν σοι τοῦτο, καὶ
-παρὰ τίνων δουματιστῶν καὶ μυθολόγων ; ἢ ἀγνοεῖς, ὅτι
+παρὰ τίνων δουματιστῶν καὶ μυθολόγων; ἢ ἀγνοεῖς, ὅτι
 πᾶς ἀριθμὸς τῆς ποσότητος τῶν ὕπο κε ὑποκειμένων μέν ὢν ἐστὶ δηλωτικός,
-<lb n="15"/> οὐ τῆς φύσεως τῶν πραγμάτων ; ἐγὼ δὲ οὕτως
+<lb n="15"/> οὐ τῆς φύσεως τῶν πραγμάτων; ἐγὼ δὲ οὕτως
 ἀρχαίως ἔχω, μᾶλλον δὲ ἀμαθῶς, ὥστε τρία μὲν ὀνομάζω
 τὰ τοσαῦτα τῷ ἀριθμῷ, κἂν διέστηκε τὴν φύσιν· ἓν δέ, καὶ
 ἕν, καὶ ἕν, ἄλλως τὰς τοσαύτας μονάδας, κἂν τῇ οὐσία
@@ -1550,9 +1550,9 @@ down to λέγομεν. On the principle
 just laid down, he says, if the
 Father, the Son, and the Spirit can
 be called three at all, it can only be
-as three Gods ; that is, your doctrine
+as three Gods; that is, your doctrine
 is incurably tritheistic Ours
-is not, he adds ; for we deny the
+is not, he adds; for we deny the
 identity of essence, and make no
 at bringing those beings
 together under a number.</note>
@@ -1603,7 +1603,7 @@ idiomatic sense of ‘idlt,’ ‘vainly.’</note>
 διῃρημένας. καὶ δύο τῷ Μωυσεῖ χερουβὶμ εὑρίσκω μοναδικῶς
 ἀριθμούμενα. πῶς οὖν ἢ ἐκεῖνα τρία, κατὰ τὴν σὴν
 τεχνολογίαν, τοσοῦτον ἀλλήλων ἀπερρηγμένα ταῖς φύσεσιν· <lb n="10"/>
-ἢ ταῦτα μοναδικά, τοσοῦτον ἀλλήλοις ὁμοφυῆ καὶ συγκείμενα ;
+ἢ ταῦτα μοναδικά, τοσοῦτον ἀλλήλοις ὁμοφυῆ καὶ συγκείμενα;
 εἰ γὰρ λέγοιμι θεὸν καὶ μαμωνᾶν δύο κυρίους εἰς ἓν
 ἀριθμουμένους, τοσούτῳ μακρὰν ὄντας ἀλλήλων, τάχα ἃν
 καὶ μᾶλλον γελασθείην τῆς συναριθμήσεως.</p>
@@ -1629,13 +1629,13 @@ invitation to prove the point, not=
 29.</note>
 <note type="footnote">8. δύο Χερουβὶμ] Ex. xxv 18,
 19. If τῷ M. = ‘ by Moses,’ perh.
-the ref. is rather to Ex. xxxvii 7 ;
+the ref. is rather to Ex. xxxvii 7;
 but it may be the strict dat.,
 ‘reckoned up singly to Moses.’</note>
 <note type="footnote">10. ἀπερρηγμένα] ’so completely
 severed.’</note>
 <note type="footnote">14. καἰ μᾶλλον γελ.] The same
-irony continued ; ‘I should be still
+irony continued; ‘I should be still
 more laughed at for my mode of
 numbering things together. ’ Matt.
 vi 24. Gr. does not observe that
@@ -1673,21 +1673,21 @@ connumeration.</note>
 
 <pb n="168"/>
 τὰ ὀνόματα· οἷον, ἄνθρωποι τρεῖς, καὶ θεοὶ τρεῖς, οὐχὶ τρία
-τάδε καὶ τάδε. τίς γὰρ ἢ ἀντίδοσις ; τοῦτο νομοθετοῦντός
+τάδε καὶ τάδε. τίς γὰρ ἢ ἀντίδοσις; τοῦτο νομοθετοῦντός
 ἐστι τοῖς ὀνόμασιν, οὐκ ἀληθεύοντος. ἐπεὶ κἀμοὶ Πέτρος,
 καὶ Παῦλος, καὶ Ἰωάννης, οὐ τρεῖς, οὐδὲ ὁμοούσιοι, ἕως ἂν
 <lb n="5"/> μὴ τρεῖς Παῦλοι, καὶ τρεῖς Πέτροι, καὶ Ἰωάνναι τοσοῦτοι
 λέγωνται. ὃ γὰρ σὺ τετήρηκας ἐπὶ τῶν γενικωτέρων ὀνομάτων,
 τοῦτο καὶ ἡμεῖς ἀπαιτήσομεν ἐπὶ τῶν εἰδικωτέρων
 κατὰ τὴν σὴν ἀνάπλασιν. ἢ ἀδικήσεις, μὴ διδοὺς ὅπερ
-εἴληφας ; τί δὲ ὁ Ἰωάννης, τρεῖς εἶναι τοὺς μαρτυροῦντας
-<lb n="10"/> λέγων ἐν ταῖς καθολικαῖς, τὸ πνεῦμα, τὸ ὕδωρ, τὸ αἷμα ;
+εἴληφας; τί δὲ ὁ Ἰωάννης, τρεῖς εἶναι τοὺς μαρτυροῦντας
+<lb n="10"/> λέγων ἐν ταῖς καθολικαῖς, τὸ πνεῦμα, τὸ ὕδωρ, τὸ αἷμα;
 ἆρά σοι ληρεῖν φαίνεται, πρῶτον μὲν ὅτι τὰ μὴ ὁμοούσια
 συναριθμῆσαι τετόλμηκεν, ὃ τοῖς ὁμοουσίοις σὺ δίδως, — τίς
-γὰρ ἂν εἴποι ταῦτα μιᾶς οὐσίασ ; — δεύτερον δὲ ὅτι μὴ
+γὰρ ἂν εἴποι ταῦτα μιᾶς οὐσίασ; — δεύτερον δὲ ὅτι μὴ
 καταλλήλως ἔχων ἀπήντησεν, ἀλλὰ τὸ τρεῖς ἀρρενικῶς
 <lb n="15"/> προθείς, τὰ τρία οὐδετέρως ἐπήνεγκε, παρὰ τοὺς σοὺς καὶ
-τῆς σῆς γραμματικῆς ὅρους καὶ νόμους ; καίτοι τί διαφέρει,
+τῆς σῆς γραμματικῆς ὅρους καὶ νόμους; καίτοι τί διαφέρει,
 ἢ τρεῖς προθέντα ἓν καὶ ἓν καὶ ἓν ἐπενεγκεῖν, ἢ ἕνα καὶ
 <note type="footnote">19. 1 καὶ θεοι] om καὶ b || 5 παυλοι... πέτροι transp. def || 6 λέγονται
 ace || 7 ἀπαιτήσωμεν a || 10 ἐν] ἔπι f || πνεῦμα] + καὶ b || ὕδωρ] + καὶ b ||
@@ -1705,7 +1705,7 @@ guage, not to state the facts with
 regard to it.’ At that rate, he can
 refuse to admit that Peter and Paul
 and John are three beings of the
-same nature ; he may say that
+same nature; he may say that
 unless all the peculiarities of
 are exactly reproduced, so that
 there are three Peters, there is not
@@ -1722,29 +1722,29 @@ strict sense.</note>
 <note type="footnote">13. μὴ καταλλ. ἔχων ἀπ’. ]
 he coines forward without putting his
 words in grammatical agreement.’
-᾿Αρρενικῶς, ‘in the ’; οὐδετέρως,
+Ἀρρενικῶς, ‘in the ’; οὐδετέρως,
 ‘in the meut.’</note>
 
 <pb n="169"/>
-ἕνα καὶ ἕνα λέγοντα μὴ τρεῖς ἀλλὰ τρία προσαγορεύειν ;
+ἕνα καὶ ἕνα λέγοντα μὴ τρεῖς ἀλλὰ τρία προσαγορεύειν;
 ὅπερ αὐτὸς ἀπαξιοῖς ἐπὶ τῆς θεότητος. τί δέ σοι ὁ καρκίνος
-τό τε ζῶον, τό τε ὄργανον, ὅ τε ἀστήρ ; τί δὲ ὁ κύων,
-ὅ τε χερσαῖος, καὶ ὁ ἔνυδρος, καὶ ὁ οὐράνιος ; οὐ τρεῖς
-λέγεσθαί σοι δοκοῦσι καρκίνοι καὶ κύνες ; πάντως γε. ἆρα <lb n="5"/>
-οὖν παρὰ τοῦτο καὶ ὁμοούσιοι ; τίς φήσει τῶν νοῦν ἐχόντων ;
+τό τε ζῶον, τό τε ὄργανον, ὅ τε ἀστήρ; τί δὲ ὁ κύων,
+ὅ τε χερσαῖος, καὶ ὁ ἔνυδρος, καὶ ὁ οὐράνιος; οὐ τρεῖς
+λέγεσθαί σοι δοκοῦσι καρκίνοι καὶ κύνες; πάντως γε. ἆρα <lb n="5"/>
+οὖν παρὰ τοῦτο καὶ ὁμοούσιοι; τίς φήσει τῶν νοῦν ἐχόντων;
 ὁρᾷς ὅπως σοι διαπέπτωκεν ὁ περὶ τῆς συναριθμήσεως
-λόγος, τοσούτοις ἐληλεγμένος ; εἰ γὰρ μήτε τὰ ὁμοούσια
+λόγος, τοσούτοις ἐληλεγμένος; εἰ γὰρ μήτε τὰ ὁμοούσια
 πάντως συναριθμεῖται, καὶ συναριθμεῖται τὰ μὴ ὁμοούσια,
 ἥ τε τῶν ὀνομάτων συνεκφώνησις ἐπ’ ἀμφοῖν, τί σοι πλέον <lb n="10"/>
-ὧν ἐδογμάτισας ;</p>
+ὧν ἐδογμάτισας;</p>
 </div>
 
 <div type="textpart" subtype="chapter" n="20">
 <p>Σκοπῶ δὲ κἀκεῖνο, καὶ ἴσως οὐκ ἔξω λόγου. τὸ
-ἓν καὶ τὸ ἓν οὐκ εἰς δύο συντίθεται ; τὰ δύο δὲ οὐκ εἰς ἓν
-καὶ ἓν ἀναλύεται ; δῆλον ὅτι. εἰ οὖν ὁμοούσια μὲν τὰ συντιθέμενα
+ἓν καὶ τὸ ἓν οὐκ εἰς δύο συντίθεται; τὰ δύο δὲ οὐκ εἰς ἓν
+καὶ ἓν ἀναλύεται; δῆλον ὅτι. εἰ οὖν ὁμοούσια μὲν τὰ συντιθέμενα
 κατὰ τὸν σὸν λόγον, ἑτεροούσια δὲ τὰ τεμνόμενα, <lb n="15"/>
-τί συμβαίνει ; τὰ αὐτὰ ὁμοούσιά τε εἶναι καὶ ἑτεροούσια.
+τί συμβαίνει; τὰ αὐτὰ ὁμοούσιά τε εἶναι καὶ ἑτεροούσια.
 γελῶ σου καὶ τὰς προαριθμήσεις, καὶ τὰς ὑπαριθμήσεις,
 <note type="footnote">20. 16 om τε f</note>
 <note type="footnote">3. τό τε ὄργανον] a pair of tongs.</note>
@@ -1797,7 +1797,7 @@ is to reckon in a secondary position.</note>
 κειμένων τῶν πραγμάτων. εἰ γὰρ τοῦτο, τί κωλύει κατὰ
 τὸν αὐτὸν λόγον, ἐπειδὴ τὰ αὐτὰ καὶ προαριθμεῖται καὶ
 ὑπαριθμεῖται παρὰ τῇ γραφῇ διὰ τὴν ἰσοτιμίαν τῆς
-<lb n="5"/> φύσεως, αὐτὰ ἑαυτῶν εἶναι τιμιώτερά τε καὶ ἀτιμότερα ;
+<lb n="5"/> φύσεως, αὐτὰ ἑαυτῶν εἶναι τιμιώτερά τε καὶ ἀτιμότερα;
 ὁ δὲ αὐτός μοι καὶ περὶ τῆς Θεὸς φωνῆς καὶ Κύριος λόγος·
 ἔτι δὲ τῶν προθέσεων, τῆς ἐξ οὗ, καὶ δι’ οὗ, καὶ ἐν ᾧ, αἷς
 σὺ κατατεχνολογεῖς ἡμῖν τὸ θεῖον, τὴν μὲν τῷ πατρὶ διδούς,
@@ -1810,7 +1810,7 @@ is to reckon in a secondary position.</note>
 <lb n="15"/> ἐπιπηδήσαντα τῷ πνεύματι, τῆς φορᾶς σχεθῆναι, ἁλλὰ μή,
 καθάπερ τῶν συῶν τοὺς θρασυτέρους, εἰς τέλος φιλονεικεῖν,
 καὶ πρὸς τὸ ξίφος ὠθίζεσθαι, μέχρις ἂν πᾶσαν εἴσω τὴν
-πληγὴν ὑπολάβῃς , φέρε, σκεψώμεθα τίς ἔτι σοι λείπεται
+πληγὴν ὑπολάβῃς, φέρε, σκεψώμεθα τίς ἔτι σοι λείπεται
 λόγος.</p>
 <note type="footnote">4 τῆ] + θεια bdf || 14 ἔπει] ἐπειδὴ dt || 18 ὑπολάβοις c</note>
 <note type="footnote">1. ὥσπερ...πραγμάτων] ‘as as if the
@@ -1929,10 +1929,10 @@ would recognise that it was a βλάβη.</note>
 <p>τῶν πραγμάτων τὰ μὲν οὐκ ἔστι, λέγεται δέ· τὰ
 δὲ ὄντα οὐ λέγεται· τὰ δὲ οὔτε ἔστιν, οὔτε λέγεται· τὰ δὲ
 ἄμφω, καὶ ἔστι, καὶ λέγεται. τούτων ἀπαιτεῖς με τὰς
-ἀποδείξεις ; παρασχεῖν ἕτοιμος. ὑπνοῖ τῆ γραφῇ θεός, καὶ
+ἀποδείξεις; παρασχεῖν ἕτοιμος. ὑπνοῖ τῆ γραφῇ θεός, καὶ
 <lb n="5"/> γρηγορεῖ, καὶ ὀργίζεται, καὶ βαδίζει, καὶ θρόνον ἔχει τὰ
-χερουβίμ· καίτοι πότε γέγονεν ἐμπαθής ; πότε δὲ σῶμα
-θεὸν ἀκήκοας ; τοῦτο οὐκ ὂν ἀνεπλάσθη. ὠνομάσαμεν
+χερουβίμ· καίτοι πότε γέγονεν ἐμπαθής; πότε δὲ σῶμα
+θεὸν ἀκήκοας; τοῦτο οὐκ ὂν ἀνεπλάσθη. ὠνομάσαμεν
 γάρ, ὡς ἡμῖν ἐφικτόν, ἐκ τῶν ἡμετέρων τὰ τοῦ θεοῦ. τὸ
 μὲν ἠρεμεῖν αὐτὸν ἀφ’ ἡμῶν, καὶ οἷον ἀμελεῖν, δι’ ἃς αὐτὸς
 <lb n="10"/> οἶδεν αἰτίας, ὑπνοῦν. τὸ γὰρ ἡμέτερον ὑπνοῦν τοιοῦτον,
@@ -2000,7 +2000,7 @@ His ‘face,’ e.g. Ps. iv 7 (6); His
 
 <div type="textpart" subtype="chapter" n="23">
 <p>Πάλιν σὺ πόθεν τὸ ἀγέννητον λαβὼν ἔχεις, ἢ τὸ <lb n="5"/>
-ἄναρχον, τὰς σὰς ἀκροπόλεις, ἢ καὶ ἡμεῖς τὸ ἀθάνατον ;
+ἄναρχον, τὰς σὰς ἀκροπόλεις, ἢ καὶ ἡμεῖς τὸ ἀθάνατον;
 δεῖξον ταῦτα ὀνομαστί, ἢ διαγράψομεν, καὶ τέθνηκας
 ἐκ τῶν σῶν ὑποθέσεων, καθαιρεθέντων σοι τῶν ὀνομάτων,
 καὶ τοῦ τείχους τῆς καταφυγῆς ἐφ’ ᾧ ἐπεποίθεις.
@@ -2030,7 +2030,7 @@ of yours’; cp. below τοῦ
 words ἢ ἀθετήσομεν, ἐπειδὴ οὐ γέγραπται
 seem to be an ancient gloss
 to explain ἢ διαγράψομεν. They
-offer no real alternative to it ; and
+offer no real alternative to it; and
 the variation of the mss. which contain
 them between ἢ and καὶ ἢ indicates
 the uncertainty of their footing.
@@ -2065,7 +2065,7 @@ due to Gr. himself; but (1) its place
 in the MSS. is against it; it ought to
 have followed διαγρ.; (2) by διαγρ.
 Gr. intended no reference to being
-found in Scripture ; he meant, if
+found in Scripture; he meant, if
 conscious of the metaphor at all, an
 erasure from the theological writings
 in which the expressions occurred.</note>
@@ -2074,7 +2074,7 @@ in which the expressions occurred.</note>
 
 <pb n="174"/>
 ἢ δῆλον ὅτι ἐκ τῶν ταῦτα συναγόντων, κἂν μὴ ταῦτα
-λέγηται ; τίνων τούτων ; Ἐγώ εἰ μί’ πρῶτος, καὶ ἐγὼ μετὰ
+λέγηται; τίνων τούτων; Ἐγώ εἰ μί’ πρῶτος, καὶ ἐγὼ μετὰ
 ταῦτα. καί, Πρὸ ἐμοῦ οὐκ ἔστιν ἄλλος θεός, καὶ μετ’ ἐμὲ
 οὐκ ἔσται. ὅλον γὰρ τὸ ἔστιν ἐμόν· οὔτε ἠργμένον, οὔτε
 <lb n="5"/> παυσόμενον. ταῦτα λαβών, τὸ μὲν μὴ εἶναί τι πρὸ αὐτοῦ,
@@ -2085,7 +2085,7 @@ in which the expressions occurred.</note>
 <lb n="10"/> πονηρὸν τὸ θεῖον, ἡ σφαῖρα τετράγωνος, τὸ παρελθὸν
 ἐνέστηκεν, οὐ σύνθετον ὁ ἄνθρωπος. τίνα γὰρ εἰς τοσοῦτόν
 ποτε ἐμπληξίας ἀφικόμενον ἔγνως, ὥστε τι τοιοῦτον
-ἢ ἐννοῆσαι τολμῆσαι, ἢ ἀποφήνασθαι ; λείπεται δεῖξαι
+ἢ ἐννοῆσαι τολμῆσαι, ἢ ἀποφήνασθαι; λείπεται δεῖξαι
 τίνα καὶ ἔστι καὶ λέγεται· θεός, ἄνθρωπος, ἄγγελος, κρίσις·
 <lb n="15"/> ματαιότης οἱ τοιοῦτοι συλλογισμοί, καὶ τῆς πίστεως ἀνατροπή,
 καὶ τοῦ μυστηρίου κένωσις.</p>
@@ -2101,7 +2101,7 @@ them.’</note>
 <note type="footnote">2. ἐγώ εἰμι πρῶτος] Is. xliv 6.</note>
 <note type="footnote">3. πρὸ ἐμοῦ] Is. xliii 10.</note>
 <note type="footnote">4. ὅλον γὰρ τὸ ἐστιν ἐμόν] God
-is represented as still speaking ; ‘all
+is represented as still speaking; ‘all
 that is included in the word Is is
 Mine, without beginning and without
 end.’</note>
@@ -2121,14 +2121,14 @@ opinion that it is so.’ The ἢ
 mean ‘or at any rate.’</note>
 <note type="footnote">14. θεός, ἄνθρ., κτλ.] Gr. first
 names four substantives, and then
-certain propositions ; ‘such syllo-
+certain propositions; ‘such syllo-
 gisms are vanity, and a
 of faith, and an emptying of the
 mystery? See 1 Cor. i 17 foll.</note>
 <note type="footnote">24. This being so, we must not
 make too much of the reticence
 Scripture. When you hear of twice
-five, you are justified in saying ten ;
+five, you are justified in saying ten;
 so whatever is clearly implied in
 Scripture may rightly be affirmed,
 even if it is not explicitly stated
@@ -2142,10 +2142,10 @@ the reticence of Scripture.</note>
 <p>τοσαύτης οὖν οὔσης διαφορᾶς ἐν τοῖς ὀνόμασι καὶ
 τοῖς πράγμασι, πῶς οὕτω σὺ λίαν δουλεύεις τῷ γράμματι,
 καὶ γίνῃ μετὰ τῆς Ἰουδαικῆς σοφίας, καὶ συλλαβαῖς
-ἀκολουθεῖς, ἀφεὶς τὰ πράγματα ; εἰ δὲ σοῦ τὰ δὶς πέντε
+ἀκολουθεῖς, ἀφεὶς τὰ πράγματα; εἰ δὲ σοῦ τὰ δὶς πέντε
 λέγοντος, ἢ τὰ δὶς ἑπτά, τὰ δέκα συνῆγον, ἢ τέσσαρες καὶ <lb n="5"/>
 δέκα ἐκ τῶν λεγομένων· ἢ ἐκ τοῦ ζῶον λογικόν, θνητόν,
-τὸν ἄνθρωπον, ἆρα ἄν σοι ληρεῖν ἐνομίσθην ; καὶ πῶς, τὰ
+τὸν ἄνθρωπον, ἆρα ἄν σοι ληρεῖν ἐνομίσθην; καὶ πῶς, τὰ
 σὰ λέγων; οὐ γὰρ τοῦ λέγοντος μᾶλλον οἱ λόγοι, ἢ τοῦ
 λέγειν συναναγκάζοντος. ὥσπερ οὖν ἐνταῦθα οὐκ ἂν τὰ
 λεγόμενα μᾶλλον ἐσκόπουν, ἢ τὰ νοούμενα· οὕτως οὐδὲ εἴ <lb n="10"/>
@@ -2161,7 +2161,7 @@ the reticence of Scripture.</note>
 cdf || 10 εἰ] + μὴ ‘Or. I’ || 12 νοουμένων bede.</note>
 <note type="footnote">1. ἐν τοῖς ὂν. καἰ τοῖς πρ.] ‘diversity
 in names and things.’</note>
-<note type="footnote">3. τῆς ᾿Ιουδ. σοφίας] because the
+<note type="footnote">3. τῆς Ἰουδ. σοφίας] because the
 Jews were ‘slaves to the letter.’
 ib. συλλαβαῖς] Basil, on the
 other hand, de Sp. S. 1, points out
@@ -2190,7 +2190,7 @@ for words to denounce them.</note>
 our stand against.’ The οὕτω
 to the argument from the beginning
 of § 21 to this point.</note>
-<note type="footnote">14. σοὶ γάρ] i.e. the Eunomian ;
+<note type="footnote">14. σοὶ γάρ] i.e. the Eunomian;
 oὐδὲ τοῦτο means the foregoing
 ment, which he says would for them
 be without force. This seems to
@@ -2212,8 +2212,8 @@ the Spirit.</note>
 εὐαγγέλιον. καὶ τρίτον σεισμὸν εὐαγγελιζόμεθα, τὴν ἐντεῦθεν
 ἐπὶ τὰ ἐκεῖσε μετάστασιν, τὰ μηκέτι κινούμενα,
 μηδὲ σαλευόμενα. ταὐτὸν δὲ αἱ δύο διαθῆκαι πεπόνθασι.
-<lb n="10"/> τί τοῦτο ; οὐκ ἀθρόως μετεκινήθησαν, οὐδὲ ὁμοῦ τῇ πρώτῃ
-κινήσει τῆς ἐγχειρήσεως. τίνος ἕνεκεν ; εἰδέναι γὰρ ἀναγκαῖον
+<lb n="10"/> τί τοῦτο; οὐκ ἀθρόως μετεκινήθησαν, οὐδὲ ὁμοῦ τῇ πρώτῃ
+κινήσει τῆς ἐγχειρήσεως. τίνος ἕνεκεν; εἰδέναι γὰρ ἀναγκαῖον
 ἵνα μὴ βιασθῶμεν, ἀλλὰ πεισθῶμεν. τὸ μὲν γὰρ
 ἀκούσιον οὐδὲ μόνιμον· ὥσπερ ἃ βίᾳ κατέχεται τῶν
 ῥευμάτων ἢ τῶν φυτῶν· τὸ δὲ ἑκούσιον μονιμώτερόν τε
@@ -2261,10 +2261,10 @@ present order to that which is beyond.</note>
 lasting either.’</note>
 <note type="footnote">15. τὸ μὲν τοῦ βίας.] In the one
 instance, the change would be
-the work of him who forced it on ;
+the work of him who forced it on;
 in the other, it is our own. The one
 kind of change is in keeping with
-the the considerateness of God ; the
+the the considerateness of God; the
 other would be a mark of tyrannical
 power.</note>
 
@@ -2275,7 +2275,7 @@ power.</note>
 πρὸς ἡδονὴν ἐνδιδούς· ὥσπερ οἱ ἰατροὶ τοῖς ἀρρωστοῦσιν,
 ἵνα ἡ φαρμακεία παραδεχθῇ διὰ τῆς τέχνης φαρματτομένη <lb n="5"/>
 τοῖς χρηστοτέροις. οὐ γὰρ ῥᾴστη τῶν ἐν ἔθει καὶ
-μακρῷ χρόνῳ τετιμημένων ἡ μετάθεσις. λέγω δὲ τί ; ἡ
+μακρῷ χρόνῳ τετιμημένων ἡ μετάθεσις. λέγω δὲ τί; ἡ
 πρώτη τὰ εἴδωλα περικόψασα τὰς θυσίας συνεχώρησεν·
 ἡ δευτέρα τὰς θυσίας περιελοῦσα τὴν περιτομὴν οὐκ
 ἐκώλυσεν· εἶτα ὡς ἅπαξ ἐδέξαντο τὴν ὑφαίρεσιν, καὶ τὸ <lb n="10"/>
@@ -2284,7 +2284,7 @@ power.</note>
 δὲ τούτων, Χριστιανοί, ταῖς κατὰ μέρος μεταθέσεσι κλαπέντες
 ἐπὶ τὸ εὐαγγέλιον. πειθέτω σὲ τοῦτο Παῦλος, ἐκ
 τοῦ περιτέμνειν καὶ ἁγνίζεσθαι προελθὼν ἐπὶ τὸ λέγειν· <lb n="15"/>
-Ἐγὼ δέ, ἀδελφοί, εἰ περιτομὴν κηρύσσω, τί ἔτι διώκομαι ;
+Ἐγὼ δέ, ἀδελφοί, εἰ περιτομὴν κηρύσσω, τί ἔτι διώκομαι;
 ἐκεῖνο τῆς οἰκονομίας, τοῦτο τῆς τελειότητος.</p>
 <note type="footnote">7 μακρω] τῶν μακρῶ b : τὼ μακρῶ def</note>
 <note type="footnote">2. τὸ μὲν ὑφαῖρει] ‘like α school-
@@ -2304,7 +2304,7 @@ to the simple ῥᾳδία.</note>
 <note type="footnote">8. τὰς θυσίας σνεχ.] This, which
 is the usual patristic view of the legal
 sacrifices, is well expressed by Cyr.
-Al. c. Iul. iv p. 126 (Aubert) ; and
+Al. c. Iul. iv p. 126 (Aubert); and
 by Greg, the Great in his letter to
 Mellitus (Bede Hist. Eccl. i 30).</note>
 <note type="footnote">10. ἐδέξαντο τὴν ὑφ.] ‘as soon as
@@ -2416,11 +2416,11 @@ words ἐκ δυνάμεως εἰς δύναμιν in
 ἀρχῇ τοῦ εὐαγγελίου, μετὰ τὸ πάθος, μετὰ τὴν ἄνοδον, τὰς
 δυνάμεις ἐπιτελοῦν, ἐμφυσώμενον, ἐν γλώσσαις πυρίναις <lb n="5"/>
 φαινόμενον. καὶ ὑπὸ Ἰησοῦ κατ’ ὀλίγον ἐκφαίνεται, ὡς
-ἐπιστήσεις καὶ αὐτὸς ἐντυγχάνων ἐπιμελέστερον· ᾿Ερωτήσω,
+ἐπιστήσεις καὶ αὐτὸς ἐντυγχάνων ἐπιμελέστερον· Ἐρωτήσω,
 φησί, τὸν πατέρα, καὶ ἄλλον παράκλητον πέμψει ὑμῖν, τὸ
 πνεῦμα τῆς ἀληθείας· ἵνα μὴ ἀντίθεος εἶναι δόξῃ τις, καὶ
 ὡς ἀπ’ ἄλλης τινὸς ἐξουσίας ποιεῖσθαι τοὺς λόγους. εἶτα, <lb n="10"/>
-Πέμψει μέν, ἐν δὲ τῷ ὀνόματί μου. τὸ ᾿Ερωτήσω παρείς, τὸ
+Πέμψει μέν, ἐν δὲ τῷ ὀνόματί μου. τὸ Ἐρωτήσω παρείς, τὸ
 Πέμψει τετήρηκεν. εἶτα, Πέμψω, τὸ οἰκεῖον ἀξίωμα· εἶτα,
 Ἥξει, ἡ τοῦ πνεύματος ἐξουσία.</p>
 </div>
@@ -2498,7 +2498,7 @@ useful observation.</note>
 ὕστερον, ὡς τηνικαῦτα ὡρίμου καὶ χωρητῆς ἤδη τυγχανούσης
 τῆς γνώσεως, μετὰ τὴν τοῦ σωτῆρος ἀποκατάστασιν,
 <lb n="15"/> οὐκέτι ἀπιστουμένου τῷ θαύματι. τί γὰρ ἂν τούτου μεῖζον
-ἢ ἐκεῖνος ὑπέσχετο, ἢ τὸ πνεῦμα ἐδίδαξεν ; εἴπερ τι μέγα
+ἢ ἐκεῖνος ὑπέσχετο, ἢ τὸ πνεῦμα ἐδίδαξεν; εἴπερ τι μέγα
 <note type="footnote">2 om τὸ μὲν γὰρ ἄτεχνον τὸ ’δε ἄθεον καὶ b || 5 ἦλθε τισιν ἔπι νοῦν ἤδη d :
 ἦλθεν ἤδη τισιν ἔπι νοῦν f || 6 ἐμαυτοῦ] ἐμῆς b ‘in nonnull.’ || 9 αιτιας]
 αἰτίαις a || 11 τούτων] τοῦτον a || 12 eis] + τοῖς ‘Reg. Cypr.’ || 15 απιστομενην]
@@ -2522,7 +2522,7 @@ God.’</note>
 <note type="footnote">2. ἀθρόως] Cp. § 22.</note>
 <note type="footnote">3. ἄτεχνον] ‘unworkmanlike.’</note>
 <note type="footnote">4. πλῆξαι] to astonish, and so
-keep them away from us ; ἀλλότρι’·
+keep them away from us; ἀλλότρι’·
 ὦσαι, because they naturally expect
 to hear the doctrine taught at the
 proper time.</note>
@@ -2569,8 +2569,8 @@ promises or reveals.</note>
 λαμπρότητος, ὅς τις οὐχ οὕτως ἔχει, ἢ συμφέρεται τοῖς
 καιροῖς, ἄλλοτε ἄλλος γινόμενος, καὶ περὶ τῶν μεγίστων <lb n="10"/>
 σαθρῶς βουλευόμενος. εἰ μὲν γὰρ οὐδὲ προσκυνητόν, πῶς
-ἐμὲ θεοῖ διὰ τοῦ βαπτίσματος ; εἰ δὲ προσκυνητόν, πῶς οὐ
-σεπτόν; εἰ δὲ σεπτόν, πῶς οὐ θεός ; ἓν ἤρτηται τοῦ ἑνός,
+ἐμὲ θεοῖ διὰ τοῦ βαπτίσματος; εἰ δὲ προσκυνητόν, πῶς οὐ
+σεπτόν; εἰ δὲ σεπτόν, πῶς οὐ θεός; ἓν ἤρτηται τοῦ ἑνός,
 ἡ χρυσῆ τις ὄντως σειρὰ καὶ σωτήριος. καὶ παρὰ μὲν τοῦ
 <note type="footnote">28. 7 μικρῶ πρόσθεν] μικρῶν ἔμπροσθεν b μικρὸν ἔμπροσθεν ‘tres
 Colb.’ || 14 χρυσῆ τις] χρυσῖτις a</note>
@@ -2624,7 +2624,7 @@ between this reading and χρυσῖτις,
 which has the authority of the best
 MS. The pronuntialion being identical,
 it seems natural to choose the
-rarer word ; but on the other hand
+rarer word; but on the other hand
 the scribe of ‘a’ may have been
 thrown out by the somewhat unusual
 combination of ἢ with τις.
@@ -2644,8 +2644,8 @@ Cp. ii 19 ἢ αὔρα τις ὀλίγη.</note>
 σκόπει δὲ οὕτως· γεννᾶται Χριστός, προτρέχει· βαπτίζεται,
 μαρτυρεῖ· πειράζεται, ἀνάγει· δυνάμεις ἐπιτελεῖ, συμπαρομαρτεῖ·
 <lb n="10"/> ἀνέρχεται, διαδέχεται. τί γὰρ οὐ δύναται τῶν
-μεγάλων, καὶ ὧν θεός ; τί δὲ οὐ προσαγορεύεται ὧν θεός,
-πλὴν ἀγεννησίας καὶ γεννήσεως ; ἔδει γὰρ τὰς ἰδιότητας
+μεγάλων, καὶ ὧν θεός; τί δὲ οὐ προσαγορεύεται ὧν θεός,
+πλὴν ἀγεννησίας καὶ γεννήσεως; ἔδει γὰρ τὰς ἰδιότητας
 μεῖναι πατρὶ καὶ υἱῷ, ἵνα μὴ σύγχυσις ἦ παρὰ θεότητι,
 τῆ καὶ τἄλλα εἰς τάξιν ἀγούσῃ καὶ εὐκοσμίαν. ἐγὼ μὲν
 <note type="footnote">29. 4 ὑποτιθέμενος ‘Reg. a’ || 13 πάρα] + τῆ df</note>
@@ -2718,8 +2718,8 @@ of without it.</note>
 how many names they outrage,’
 ‘against how many names they are
 impudent.’</note>
-<note type="footnote">3. πνεῦμα θεοῦ] e.g. 1 Cor. ii 11 ;
-Χριστοῦ, Rom. viii 9 ; νοῦς Χρ.,</note>
+<note type="footnote">3. πνεῦμα θεοῦ] e.g. 1 Cor. ii 11;
+Χριστοῦ, Rom. viii 9; νοῦς Χρ.,</note>
 <note type="footnote">1 Cor. ii 16; πν. κυρίου, 2 Cor. iii
 17; αὐτὸ κ., ibid.</note>
 <note type="footnote">4. πν. υἱοθεσίας] Rom. viii 15
@@ -2736,7 +2736,7 @@ is introduced as an antithesis to
 of the συνέχον τὰ πάντα
 of Wisdom.</note>
 <note type="footnote">9. ἀγαθόν] Doubtless Gr.’s
-in Ps. cxlii (cxliii) 10 ; εὐθές,
+in Ps. cxlii (cxliii) 10; εὐθές,
 Ps. 1 12 (li 10); ἡγεμ., ibid. 14
 (12).</note>
 <note type="footnote">ib. φύσει οὐ θέσει] These words
@@ -2756,7 +2756,7 @@ city.</note>
 <note type="footnote">10. ἁγιάζον] e.g. Rom. xv 16
 μετροῦν, ι Cor. xii 1 1 (for οὐ μετρούμενον
 cp. iv 12); μετεχόμενον, e.g.
-Phil, ii 1 ; πληροῦν, συνέχον, Wisd.
+Phil, ii 1; πληροῦν, συνέχον, Wisd.
 i 7.</note>
 <note type="footnote">12. κληρονομούμενον] not a scriptural
 phrase, but perh. derived from
@@ -2766,11 +2766,11 @@ with 18; or from the usual
 language of Scripture about ‘habing,’
 ‘receiving,’ the Spirit. Δοξαζόμενον,
 perh. ι Pet. iv 14; συναριθμ., e.g.
-Matt, xxviii 19, 2 Cor. xiii 14 ; ἐπαπειλούμενον,
+Matt, xxviii 19, 2 Cor. xiii 14; ἐπαπειλούμενον,
 ‘used as a threat,’ Matt.
 xii 31 (cp. 2 Thess. ii 8).</note>
 <note type="footnote">13. δάκτυλος θ.] Luke xi 20 compared
-with Matt, xii 28 ; πῦρ, Acts
+with Matt, xii 28; πῦρ, Acts
 ii 3 (cp. 1 Thess. v 19, 2 Tim. i 6);
 ὡς θεός, Hob. xii 29.</note>
 
@@ -2790,17 +2790,17 @@ ii 3 (cp. 1 Thess. v 19, 2 Tim. i 6);
 <note type="footnote">4 πειραζόμενον παροξυνόμενον e2 || 11 ἀμόλυντον ἀκώλυτον df || ωπερ]
 ὅπερ abceg ‘plures Reg. etc.’ || 12 το] τὼ acg ‘duo Reg.’</note>
 <note type="footnote">1. τὸ ποιῆσαν] Prob. a ref. to
-Gen. i 2 ; ἄνακτ’. διὰ β., John iii 5
+Gen. i 2; ἄνακτ’. διὰ β., John iii 5
 (2 Cor. v 17); δι’ ἀναστ., Rom. viii
 11.</note>
 <note type="footnote">2. τὸ γινῶσκον ἅπ.] i Cor. ii 10
 (cp. Ps. exxxviii (exxxix) 7); διδάσκον,
 John xiv 26, 1 John ii 27
-πνέον, John iii 8 ; ὁδηγοῦν, John xvi
+πνέον, John iii 8; ὁδηγοῦν, John xvi
 13; λαλοῦν, ἀποστ., ἀφορ., Acts xiii
-2 foil. (cp. Acts xx 23, 1 Tim. iv 1 ;
+2 foil. (cp. Acts xx 23, 1 Tim. iv 1;
 Is. xlviii 16).</note>
-<note type="footnote">4. παροξυνόμενον] Is. lxiii 10 ;
+<note type="footnote">4. παροξυνόμενον] Is. lxiii 10;
 πειραζ., Acts v 9.</note>
 <note type="footnote">5."/&gt; ἀποκαλυπτικόν] I Cor. ii 10
 φωτιστ., ζωτ., perh. Ps. xxxv 10
@@ -2808,11 +2808,11 @@ Is. xlviii 16).</note>
 Rom. viii 10).</note>
 <note type="footnote">6. ναοποιοῦν] I Cor. iii 16, vi 19
 θεοποιοῦν, constructively deduced
-from the Sourut’s action in baptism ;
+from the Sourut’s action in baptism;
 τελειοῦν, in the ‘mystical’ sense of
 ‘initiating.’ All three words have
 ref. to ‘baptism,’ in the larger sense
-of the word ; and the ὥστε prob.
+of the word; and the ὥστε prob.
 belongs to all three. It is more
 difficult to say what Gr. means by
 this use of ὥστε. Prob. it is intended
@@ -2824,11 +2824,11 @@ work of ‘making’ us temples etc.
 His independence with respect to
 the sacrament is a proof of this.
 He is able to ‘anticipate baptism’
-(Acts x 44) ; and ‘baptism’ may be
+(Acts x 44); and ‘baptism’ may be
 received and His indwelling be yet
 to seek (Acts viii 16).</note>
 <note type="footnote">8. ἐνεργοῦν] 1 Cor. xii 11; μερὶ.
-ζόμενον, Acts ii 3 ; διαιροῦν, I Cor.
+ζόμενον, Acts ii 3; διαιροῦν, I Cor.
 xii n; ποιοῦν ἀπ’. κτλ., Eph. iv 11
 compared with 1 Cor. xii 4 foll.,
 Rom. xii 6, Acts xx 28.</note>
@@ -2841,11 +2841,11 @@ which, esp. μονογενές, would have
 been troublesome for him to expound.
 Each epithet from νοερὸν
 to ἀμόλυντον is explained. Νοερόν
-= σοφώτατον ; πολυμερές =
-ταῖς ἐνεργ. ; σαφές = σαφηνιστικὸν
-πάντων (neut.) ; τρανόν = τρανωτικόν ;
+= σοφώτατον; πολυμερές =
+ταῖς ἐνεργ.; σαφές = σαφηνιστικὸν
+πάντων (neut.); τρανόν = τρανωτικόν;
 ἀκώλυτον = αὐτεξούσιον (this shews
-the order of df to be wrong) ;
+the order of df to be wrong);
 ἀμόλυντον = ἀναλλοίωτον (since
 change in the Holy Ghost must be a
 change for the worse).</note>
@@ -2954,14 +2954,14 @@ as in the case of the Son. See iii 18.</note>
 μερίς., Heb. ii 4; χάρισμα, 2 Tim. i
 6; δώρημα (δωρεά), John iv 10, Acts
 viii 20; ἐμφύς., John xx 22; ἐπαγγ.
-Luke xxiv 49, Acts i 4 ; ὑπερέντευξις
+Luke xxiv 49, Acts i 4; ὑπερέντευξις
 (cp. iv 14), Rom. viii 26.</note>
 <note type="footnote">6. ἀνενεκτέον] from ἀναφέρω,
 ‘must be referred to the primal
 Cause, in order that it may be shewn
 from whom He proceeds.’</note>
 <note type="footnote">7. παραδεχθῶσιν] the correlative
-to παραδίδοσθαι ; ‘that men might
+to παραδίδοσθαι; ‘that men might
 not receive the polytheistic doctrine
 of three separate Sources, or First
 Principles.’</note>
@@ -2976,7 +2976,7 @@ because Sabellianism reduces the
 persons to one, — if indeed any personality
 can be said to remain.</note>
 <note type="footnote">31. Illustrations of the doctrine
-of the Trinity are wholly inadequate ;
+of the Trinity are wholly inadequate;
 like mouth, spring, and stream.</note>
 <note type="footnote">10. ὡς ἔγ. π.] ‘How many things!’</note>
 <note type="footnote">11. πανταχόθεν] Cp. πολυπρ. ii 9.</note>
@@ -3042,12 +3042,12 @@ dissipation, of Godhead.’
 as in § 30.</note>
 <note type="footnote">8. ἐν ἐστιν ἀριθμῶ They are not
 really three distinct things, Gr.
-thinks ; they are only various forms
+thinks; they are only various forms
 or phases of the same thing, and
 therefore they are inadequate to
 express the Trinity, which is essentially
 three in number.</note>
-<note type="footnote">32. So with sun, ray, and light ;
+<note type="footnote">32. So with sun, ray, and light;
 or with the flickering sunshine reflected
 from water upon a wall.</note>
 <note type="footnote">10. ἤλιον κτλ] Cp. Tert. adv.
@@ -3108,9 +3108,9 @@ the context to mean ’belonging to the
 nature of the sun.’ Elsewhere,
 the word is used in a way that
 would give an almost opposite
-meaning ; e.g. Or. xli 11 οὐκέτι ἐνεργείᾳ
+meaning; e.g. Or. xli 11 οὐκέτι ἐνεργείᾳ
 παρὸν ὡς πρότερον, οὐσιωδῶς δέ,
-ὡς ἂν εἴποι τις, συγγινόμενον ; Cyr.
+ὡς ἂν εἴποι τις, συγγινόμενον; Cyr.
 Hier. Cat. Myst. iii 1 πνεύματος
 ἁγίου οὐσιώδης ἐπιφοίτησις. Ace. to
 these examples, ποιότητες οὐσιώδεις
@@ -3169,7 +3169,7 @@ sunbeam.</note>
 ἀστάτου καὶ οὐ παγίας φύσεως, ὧν οὐδὲν ἐννοητέον περὶ
 θεότητος. καὶ ὅλως οὐδὲν ἔστιν ὅ μοι τὴν διάνοιαν ἵστησιν
 ἐπὶ τῶν ὑποδειγμάτων θεωροῦντι τὸ φανταζόμενον, πλὴν
-<note type="footnote">1 σχεθεισα] χεθεισα ῾El.’ 33. 6 τουτο] τουτω ag ‘tres Colb.’ || 
+<note type="footnote">1 σχεθεισα] χεθεισα ῾El.’ 33. 6 τουτο] τουτω ag ‘tres Colb.’ ||
 11 ἐννοητέον] cetera desunt in a</note>
 <note type="footnote">1. ὑπολαβοῦσα] ῾assuming,’
 ῾catching.’</note>
@@ -3246,7 +3246,7 @@ form.’</note>
 d1 (ut videtur) || 11 καὶ] + βασίλειαν καὶ ῾Reg. a’ || 12 om αἰώνων ce</note>
 <note type="footnote">1. ὑπ’ εὐγνωμοσύνης] The rhythm
 is in favour of joining these words
-to those which follow ; ῾have the
+to those which follow; ῾have the
 good sense to throw the rest away.’
 For the use of the prep. cp. iv 7.</note>
 <note type="footnote">4. τῆς ἅλ’. πλ. ἀποδεούσας] ῾quite
