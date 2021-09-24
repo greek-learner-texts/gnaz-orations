@@ -60,19 +60,21 @@ def format_flags(flags):
 
 normalise = Normaliser(config, proper_nouns=PROPER_NOUNS).normalise
 
-input_filename = f"text/orat27.sent.txt"
-output_filename = f"analysis/orat27.sent.norm.txt"
+for n in ["27", "28", "29", "30", "31"]:
 
-with open(input_filename) as f, open(output_filename, "w") as g:
-    for line in f:
-        line = line.strip()
-        ref, *text = line.split()
-        text_list = [f"{ref}.text", *text]
-        norm = [f"{ref}.norm"]
-        flags = [f"{ref}.flags"]
-        for token in text:
-            norm_token, norm_flags = normalise(token.strip(",.;·«»()!"))
-            norm.append(norm_token)
-            flags.append(format_flags(norm_flags))
+    input_filename = f"text/orat{n}.sent.txt"
+    output_filename = f"analysis/orat{n}.sent.norm.txt"
 
-        print_interlinear([text_list, flags, norm], g)
+    with open(input_filename) as f, open(output_filename, "w") as g:
+        for line in f:
+            line = line.strip()
+            ref, *text = line.split()
+            text_list = [f"{ref}.text", *text]
+            norm = [f"{ref}.norm"]
+            flags = [f"{ref}.flags"]
+            for token in text:
+                norm_token, norm_flags = normalise(token.strip(",.;·«»()!"))
+                norm.append(norm_token)
+                flags.append(format_flags(norm_flags))
+
+            print_interlinear([text_list, flags, norm], g)
